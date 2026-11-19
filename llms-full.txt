@@ -1,0 +1,2813 @@
+# StreamerOS Money Calculators: full site text
+
+> The readable text of every public page on https://calc.streamerosai.com, built by Yaseen Khatib, Full Stack AI Developer, Hyderabad, India
+> (https://yk.streamerosai.com/). The short map is at https://calc.streamerosai.com/llms.txt.
+
+
+---
+
+# Money Calculators: Pay Raise, Salary, Overtime and Currency
+
+URL: https://calc.streamerosai.com/
+
+- Instant
+- Any currency
+- Private
+
+## Money calculators that show the math
+
+Work out your take-home pay, a raise, convert salary to hourly pay, add up overtime, or convert between currencies such as USD to INR. Every answer comes with the formula behind it.
+Paycheck calculator USD to INR
+
+Pay
+
+### Pay and salary calculators
+
+#### Paycheck Calculator
+
+Take-home pay after federal tax, FICA and state tax, per paycheck and per year.
+Open calculator →
+
+#### Hourly Paycheck Calculator
+
+Your hourly rate and hours as take-home pay after tax.
+Open calculator →
+
+#### Pay Raise Calculator
+
+See your new pay after a raise, or find what percent raise you got.
+Open calculator →
+
+#### Salary Calculator
+
+Turn any pay figure into every other pay period in one step.
+Open calculator →
+
+#### Hourly to Salary Calculator
+
+Turn an hourly wage into an annual salary and every other period.
+Open calculator →
+
+#### Salary to Hourly Calculator
+
+Find the hourly wage behind any annual or monthly salary.
+Open calculator →
+
+#### Overtime Pay Calculator
+
+Work out a week of pay with overtime at 1.5x, 2x or your own multiplier.
+Open calculator →
+
+#### Time and a Half Calculator
+
+Your hourly rate at time and a half and double time, and pay for your hours.
+Open calculator →
+
+Finance
+
+### EMI, SIP, GST and India tax calculators
+
+#### EMI Calculator
+
+Monthly EMI for any loan, with total interest and a full amortization table.
+Open calculator →
+
+#### Home Loan EMI Calculator
+
+Monthly EMI for a home loan, with the full repayment breakdown.
+Open calculator →
+
+#### Car Loan EMI Calculator
+
+Monthly EMI for a car or bike loan, with the full repayment breakdown.
+Open calculator →
+
+#### SIP Calculator
+
+Project what a monthly SIP could grow to, year by year.
+Open calculator →
+
+#### Loan Eligibility Calculator
+
+See roughly how large a loan your income could support.
+Open calculator →
+
+#### GST Calculator
+
+Add or remove GST at any rate, with the CGST/SGST split.
+Open calculator →
+
+#### Compound Interest Calculator
+
+Maturity value of a principal at compound interest, year by year.
+Open calculator →
+
+#### Percentage Calculator
+
+X% of Y, what percent one number is of another, and the reverse.
+Open calculator →
+
+#### Income Tax Calculator (India)
+
+India income tax for FY 2026-27, new regime vs old, with the full working.
+Open calculator →
+
+Currency
+
+### Currency converters
+
+#### Currency Converter
+
+Convert between any two currencies at live mid-market rates.
+Convert →
+
+#### USD Salary to INR Calculator
+
+See a dollar salary or hourly wage as rupees, by year, month, week and hour.
+Convert →
+
+#### USD to INR: US Dollar to Indian Rupee
+
+US dollars to Indian rupees at live rates, with the rupee shown in lakh and crore style.
+Convert →
+
+#### INR to USD: Indian Rupee to US Dollar
+
+Indian rupees to US dollars at live rates, from a few rupees to lakhs.
+Convert →
+
+#### GBP to INR: British Pound to Indian Rupee
+
+Pounds sterling to Indian rupees at live rates.
+Convert →
+
+#### EUR to INR: Euro to Indian Rupee
+
+Euros to Indian rupees at live rates.
+Convert →
+
+#### CAD to INR: Canadian Dollar to Indian Rupee
+
+Canadian dollars to Indian rupees at live rates.
+Convert →
+
+#### AUD to INR: Australian Dollar to Indian Rupee
+
+Australian dollars to Indian rupees at live rates.
+Convert →
+
+#### AED to INR: UAE Dirham to Indian Rupee
+
+UAE dirhams to Indian rupees at live rates.
+Convert →
+
+Why these
+
+### Numbers you can check
+
+#### The formula is always shown
+
+Every page states the arithmetic it uses, with a worked example, so you can check the answer yourself.
+
+#### Any currency
+
+Pay figures and conversions work in every currency your browser knows, with live mid-market rates and the rupee in lakh and crore style.
+
+#### Private
+
+Everything is calculated in your browser. The figures you type are never uploaded or stored.
+
+Guides
+
+### Understand how the numbers are made
+
+#### How to convert salary to hourly pay (the 2,080-hour rule)
+
+The formula, the 2,080-hour year, and when your own schedule changes the answer.
+Read guide →
+
+#### How overtime pay works in the US: time and a half explained
+
+The federal rule, the calculation, and the exceptions that change your pay.
+Read guide →
+
+#### How exchange rates work: the mid-market rate vs the rate you get
+
+What the mid-market rate is, and how to compare what you will really receive.
+Read guide →
+
+About
+
+### How to read the results
+
+Each calculator shows its formula and a worked example on the page, so you can check the answer by hand. Pay figures are gross, before tax. The income tax tool names the financial years and slabs it uses, the loan tools state their formula, and the currency tools use public daily reference rates, not the rate a bank will give you. The guides explain the rules behind the numbers: how overtime is calculated, where the 2,080-hour year comes from, and how exchange-rate margins work. They are estimates for planning, not financial, tax or legal advice.
+
+
+---
+
+# Paycheck Calculator: Take-Home Pay After Tax (2026)
+
+URL: https://calc.streamerosai.com/paycheck-calculator/
+
+Free · instant · no sign-up
+
+## Paycheck Calculator
+
+Enter your salary to see take-home pay after federal income tax, Social Security, Medicare and state tax. Built on the 2026 IRS tax tables, with the working shown below.
+Yearly salary before tax ($)
+Paid Weekly Every 2 weeks Twice a month Monthly
+Filing status Single or married filing separately Married filing jointly Head of household
+State Other state (enter rate below) Alaska ( no wage tax) Arizona ( 2.5% flat) Colorado ( 4.4% flat) Florida ( no wage tax) Georgia ( 5.19% flat) Idaho ( 5.3% flat) Illinois ( 4.95% flat) Indiana ( 2.95% flat) Iowa ( 3.8% flat) Kentucky ( 3.5% flat) Louisiana ( 3% flat) Michigan ( 4.25% flat) Mississippi ( 4% flat) Nevada ( no wage tax) New Hampshire ( no wage tax) North Carolina ( 3.99% flat) Ohio ( 2.75% flat) Pennsylvania ( 3.07% flat) South Dakota ( no wage tax) Tennessee ( no wage tax) Texas ( no wage tax) Utah ( 4.5% flat) Washington ( no wage tax) Wyoming ( no wage tax)
+State and local income tax (%) Your own rate, if your state has graduated rates
+Pre-tax retirement per paycheck ($) 401(k), 403(b)
+Pre-tax benefits per paycheck ($) Health, dental, HSA, FSA
+After-tax deductions per paycheck ($) Roth 401(k), dues
+
+Take-home per paycheck $1,938.08
+Take-home per year $50,390
+Kept from gross pay 84.0 %
+
+2026 estimate Per paycheck Per year
+Gross pay $2,307.69 $60,000
+Pre-tax retirement $0.00 $0
+Pre-tax benefits $0.00 $0
+Federal income tax - $193.08 - $5,020
+Social Security (6.2%) - $143.08 - $3,720
+Medicare - $33.46 - $870
+State and local tax $0.00 $0
+After-tax deductions $0.00 $0
+Take-home pay $1,938.08 $50,390
+Federal bracket on your last dollar: 12 %. Taxable income after the standard deduction: $43,900. State tax is set to 0%.
+
+### Take-home pay at common salaries
+
+Single filer, paid every two weeks, no pre-tax deductions and no state tax. Your own figures will differ, so use the calculator above.
+Yearly salary Federal tax Social Security + Medicare Take-home, per year Take-home, every 2 weeks
+$30,000 $1,420 $2,295 $26,285 $1,010.96
+$45,000 $3,220 $3,443 $38,338 $1,474.52
+$60,000 $5,020 $4,590 $50,390 $1,938.08
+$80,000 $8,770 $6,120 $65,110 $2,504.23
+$100,000 $13,170 $7,650 $79,180 $3,045.38
+$150,000 $24,734 $11,475 $113,791 $4,376.58
+
+### How a paycheck is calculated
+
+- Start with gross pay, the amount before anything is taken out.
+- Subtract pre-tax deductions. Retirement contributions such as a 401(k) lower the pay your income tax is based on. Health premiums and similar benefits also lower the pay Social Security and Medicare are based on.
+- Subtract the standard deduction to get taxable income ( $16,100 single, $32,200 married filing jointly, $24,150 head of household in 2026).
+- Apply the tax brackets. Each rate applies only to the slice of income inside its bracket, not to all of it.
+- Add Social Security and Medicare (together called FICA).
+- Add state and local tax, then any after-tax deductions. What is left is take-home pay.
+
+### 2026 federal income tax brackets
+
+The rate applies to taxable income inside each range. These are the figures the IRS published for 2026 in Revenue Procedure 2025-32.
+Rate Single or married filing separately Married filing jointly Head of household
+10 % $0 to $12,400 $0 to $24,800 $0 to $17,700
+12 % $12,400 to $50,400 $24,800 to $100,800 $17,700 to $67,450
+22 % $50,400 to $105,700 $100,800 to $211,400 $67,450 to $105,700
+24 % $105,700 to $201,775 $211,400 to $403,550 $105,700 to $201,750
+32 % $201,775 to $256,225 $403,550 to $512,450 $201,750 to $256,200
+35 % $256,225 to $640,600 $512,450 to $768,700 $256,200 to $640,600
+37 % Over $640,600 Over $768,700 Over $640,600
+
+### Social Security and Medicare
+
+- Social Security: 6.2% of wages, up to $184,500 a year in 2026. Pay above that is not charged Social Security tax.
+- Medicare: 1.45% of all wages, plus an extra 0.9% on wages above $200,000.
+- Your employer pays a matching share on top. It does not come out of your check.
+
+### State income tax
+
+State rules differ, so this is the part to check against your own state. 9 states do not tax wages: Alaska, Florida, Nevada, New Hampshire, South Dakota, Tennessee, Texas, Washington, Wyoming. 15 states charge one flat rate, and the calculator fills those in when you pick the state. The rest use graduated rates, so enter your own percentage. Many cities and counties add a local tax, which you can include in the same box.
+State with a flat rate 2026 rate
+Arizona 2.5 %
+Colorado 4.4 %
+Georgia 5.19 %
+Idaho 5.3 %
+Illinois 4.95 %
+Indiana 2.95 %
+Iowa 3.8 %
+Kentucky 3.5 %
+Louisiana 3 %
+Michigan 4.25 %
+Mississippi 4 %
+North Carolina 3.99 %
+Ohio 2.75 %
+Pennsylvania 3.07 %
+Utah 4.5 %
+
+### What this estimate leaves out
+
+Real withholding depends on the Form W-4 you gave your employer and on IRS Publication 15-T, so a paycheck can differ from this estimate by a few dollars. The calculator does not include the child tax credit or other credits, extra income, overtime or bonuses, state standard deductions or exemptions, or payroll taxes some states add (such as state disability insurance). Use it to plan, and your pay stub for the exact figure.
+
+### Sources
+
+- IRS Revenue Procedure 2025-32 (brackets and standard deduction), checked 4 November 2026.
+- Social Security Administration: contribution and benefit base, checked 4 November 2026.
+- IRS Topic 751: Social Security and Medicare withholding rates.
+- Tax Foundation: state income tax rates for 2026, checked 4 November 2026.
+
+### Frequently asked questions
+
+How do I calculate my paycheck after taxes?
+Take your gross pay, subtract pre-tax deductions such as a 401(k), subtract the standard deduction to find taxable income, and apply the federal brackets. Then add Social Security (6.2%) and Medicare (1.45%), state and local tax, and any after-tax deductions. What remains is take-home pay. This calculator does all of it from your salary.
+
+How much is taken out of a paycheck?
+For a single filer earning $60,000, about 16 percent goes to federal tax, Social Security and Medicare combined, before any state tax. The share rises with income because the brackets are marginal, and falls with pre-tax deductions such as a 401(k).
+
+Why is my real paycheck different from the estimate?
+Employers withhold using your Form W-4 and the IRS payroll method in Publication 15-T, not your final tax bill. A different W-4, extra income, credits, local taxes or benefits not entered here all change the real figure. Your pay stub is the exact number.
+
+Does a 401(k) contribution lower my tax?
+A traditional 401(k) contribution lowers the pay your income tax is based on, so your take-home pay falls by less than the amount you contribute. It does not lower Social Security or Medicare tax. A Roth 401(k) is taken after tax and does not lower income tax today.
+
+Which states have no income tax?
+Alaska, Florida, Nevada, New Hampshire, South Dakota, Tennessee, Texas, Washington and Wyoming do not tax wages. Pick one of them in the calculator and the state tax is set to zero.
+
+Is bonus or overtime pay taxed differently?
+Not at a special rate. They are added to your income and taxed through the same brackets, but employers often withhold a flat percentage from a bonus, which can make the check look smaller than the final tax owed.
+
+### Related tools
+
+Hourly Paycheck Calculator Salary to Hourly Calculator Pay Raise Calculator Overtime Pay Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Hourly Paycheck Calculator: Take-Home Pay (2026)
+
+URL: https://calc.streamerosai.com/hourly-paycheck-calculator/
+
+Free · instant · no sign-up
+
+## Hourly Paycheck Calculator
+
+Enter your hourly rate and weekly hours to see take-home pay after federal income tax, Social Security, Medicare and state tax, per paycheck and per year. Uses the 2026 IRS tax tables.
+Hourly rate ($)
+Hours per week
+Paid Weekly Every 2 weeks Twice a month Monthly
+Filing status Single or married filing separately Married filing jointly Head of household
+State Other state (enter rate below) Alaska ( no wage tax) Arizona ( 2.5% flat) Colorado ( 4.4% flat) Florida ( no wage tax) Georgia ( 5.19% flat) Idaho ( 5.3% flat) Illinois ( 4.95% flat) Indiana ( 2.95% flat) Iowa ( 3.8% flat) Kentucky ( 3.5% flat) Louisiana ( 3% flat) Michigan ( 4.25% flat) Mississippi ( 4% flat) Nevada ( no wage tax) New Hampshire ( no wage tax) North Carolina ( 3.99% flat) Ohio ( 2.75% flat) Pennsylvania ( 3.07% flat) South Dakota ( no wage tax) Tennessee ( no wage tax) Texas ( no wage tax) Utah ( 4.5% flat) Washington ( no wage tax) Wyoming ( no wage tax)
+State and local income tax (%) Your own rate, if your state has graduated rates
+Pre-tax retirement per paycheck ($) 401(k), 403(b)
+Pre-tax benefits per paycheck ($) Health, dental, HSA, FSA
+After-tax deductions per paycheck ($) Roth 401(k), dues
+
+Take-home per paycheck $1,690.85
+Take-home per year $43,962
+Kept from gross pay 84.5 %
+
+2026 estimate Per paycheck Per year
+Gross pay $2,000.00 $52,000
+Pre-tax retirement $0.00 $0
+Pre-tax benefits $0.00 $0
+Federal income tax - $156.15 - $4,060
+Social Security (6.2%) - $124.00 - $3,224
+Medicare - $29.00 - $754
+State and local tax $0.00 $0
+After-tax deductions $0.00 $0
+Take-home pay $1,690.85 $43,962
+Federal bracket on your last dollar: 12 %. Taxable income after the standard deduction: $35,900. State tax is set to 0%.
+
+### How an hourly wage becomes take-home pay
+
+Gross pay = hourly rate x hours per week x 52. The calculator treats that as your yearly income, works out the tax on it, and divides by the number of paychecks. A $20 hourly rate at 40 hours is $41,600 a year; at 25 hours it is $26,000.
+
+### Take-home pay by hourly rate
+
+Weekly take-home at 40 hours for a single filer using the standard deduction, with no state tax, no retirement contributions and no other deductions. The figures are computed with the same tax tables as the calculator above.
+Hourly rate Gross per year Federal tax per year Social Security + Medicare Take-home per week
+$15.00 $31,200 $1,564 $2,387 $524.02
+$20.00 $41,600 $2,812 $3,182 $684.72
+$25.00 $52,000 $4,060 $3,978 $845.42
+$30.00 $62,400 $5,308 $4,774 $1,006.12
+$40.00 $83,200 $9,474 $6,365 $1,295.41
+
+### Part-time hours at $20 an hour
+
+Fewer hours lower gross pay and also the share that goes to income tax, because less of the year&#x27;s pay is above the standard deduction. Social Security and Medicare apply from the first dollar.
+Hours a week Gross per week Federal tax per week Take-home per week Take-home as a share of gross
+20 hours $400.00 $9.04 $360.36 90.1 %
+30 hours $600.00 $30.08 $524.02 87.3 %
+40 hours $800.00 $54.08 $684.72 85.6 %
+
+### A week with overtime
+
+The calculator assumes the same hours every week. For a week with overtime, find the gross pay first. At $20 an hour, 45 hours with overtime after 40 at time and a half is $800.00 for the first 40 hours plus $150.00 for 5 overtime hours, or $950.00 gross. If every week were like that one, take-home would be about $805.25 a week on the same assumptions. Use the overtime pay calculator to work out other weeks.
+
+### Minimum wage workers and income tax
+
+The federal minimum wage is $7.25 an hour. At 40 hours for 52 weeks that is $15,080 a year, below the $16,100 standard deduction for a single filer, so the federal income tax in this model is $0. Social Security and Medicare still apply to every dollar. Many states and cities set a higher minimum wage and some have their own income tax, so check your own. Source: 29 U.S.C. 206, checked 16 November 2026.
+
+### How a paycheck is calculated
+
+- Start with gross pay, the amount before anything is taken out.
+- Subtract pre-tax deductions. Retirement contributions such as a 401(k) lower the pay your income tax is based on. Health premiums and similar benefits also lower the pay Social Security and Medicare are based on.
+- Subtract the standard deduction to get taxable income ( $16,100 single, $32,200 married filing jointly, $24,150 head of household in 2026).
+- Apply the tax brackets. Each rate applies only to the slice of income inside its bracket, not to all of it.
+- Add Social Security and Medicare (together called FICA).
+- Add state and local tax, then any after-tax deductions. What is left is take-home pay.
+
+### 2026 federal income tax brackets
+
+The rate applies to taxable income inside each range. These are the figures the IRS published for 2026 in Revenue Procedure 2025-32.
+Rate Single or married filing separately Married filing jointly Head of household
+10 % $0 to $12,400 $0 to $24,800 $0 to $17,700
+12 % $12,400 to $50,400 $24,800 to $100,800 $17,700 to $67,450
+22 % $50,400 to $105,700 $100,800 to $211,400 $67,450 to $105,700
+24 % $105,700 to $201,775 $211,400 to $403,550 $105,700 to $201,750
+32 % $201,775 to $256,225 $403,550 to $512,450 $201,750 to $256,200
+35 % $256,225 to $640,600 $512,450 to $768,700 $256,200 to $640,600
+37 % Over $640,600 Over $768,700 Over $640,600
+
+### Social Security and Medicare
+
+- Social Security: 6.2% of wages, up to $184,500 a year in 2026. Pay above that is not charged Social Security tax.
+- Medicare: 1.45% of all wages, plus an extra 0.9% on wages above $200,000.
+- Your employer pays a matching share on top. It does not come out of your check.
+
+### State income tax
+
+State rules differ, so this is the part to check against your own state. 9 states do not tax wages: Alaska, Florida, Nevada, New Hampshire, South Dakota, Tennessee, Texas, Washington, Wyoming. 15 states charge one flat rate, and the calculator fills those in when you pick the state. The rest use graduated rates, so enter your own percentage. Many cities and counties add a local tax, which you can include in the same box.
+State with a flat rate 2026 rate
+Arizona 2.5 %
+Colorado 4.4 %
+Georgia 5.19 %
+Idaho 5.3 %
+Illinois 4.95 %
+Indiana 2.95 %
+Iowa 3.8 %
+Kentucky 3.5 %
+Louisiana 3 %
+Michigan 4.25 %
+Mississippi 4 %
+North Carolina 3.99 %
+Ohio 2.75 %
+Pennsylvania 3.07 %
+Utah 4.5 %
+
+### What this estimate leaves out
+
+Real withholding depends on the Form W-4 you gave your employer and on IRS Publication 15-T, so a paycheck can differ from this estimate by a few dollars. The calculator does not include the child tax credit or other credits, extra income, overtime or bonuses, state standard deductions or exemptions, or payroll taxes some states add (such as state disability insurance). Use it to plan, and your pay stub for the exact figure.
+
+### Sources
+
+- IRS Revenue Procedure 2025-32 (brackets and standard deduction), checked 4 November 2026.
+- Social Security Administration: contribution and benefit base, checked 4 November 2026.
+- IRS Topic 751: Social Security and Medicare withholding rates.
+- Tax Foundation: state income tax rates for 2026, checked 4 November 2026.
+
+### Frequently asked questions
+
+How do I calculate an hourly paycheck?
+Multiply your hourly rate by the hours you work in a week, then by 52 for the year. Subtract pre-tax deductions and the standard deduction, apply the federal brackets, and add Social Security, Medicare and state tax. Divide by your number of paychecks for the amount per check.
+
+How much is $20 an hour after taxes?
+At 40 hours a week, $20 an hour is $41,600 a year before tax. For a single filer with no state tax and no other deductions, take-home pay comes to about $35,606 a year, or $684.72 a week. Enter your own details above for your filing status and state.
+
+Does this include overtime?
+No. It assumes the same hours every week. To estimate a week with overtime, work out the gross pay with the overtime calculator, then use the average hours per week here for a rough take-home figure. A 45-hour week at $20 with time and a half is $950.00 gross.
+
+Why does my hourly paycheck change from week to week?
+Hours change, and the tax withheld changes with them. Employers also annualise each paycheck to decide the withholding, so a larger check can look taxed more heavily even though the final tax is calculated on the whole year.
+
+How much is take-home pay at 30 hours a week?
+At $20 an hour and 30 hours a week, gross pay is $31,200 a year, and take-home is about $27,249 a year ($524.02 a week) for a single filer with no state tax.
+
+Do part-time workers pay Social Security and Medicare?
+Yes. Social Security (6.2%) and Medicare (1.45%) are charged on every dollar of wages. Income tax may be zero if your yearly pay stays under the standard deduction.
+
+### Related tools
+
+Paycheck Calculator Overtime Pay Calculator Hourly to Salary Calculator Salary to Hourly Calculator Pay Raise Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Pay Raise Calculator: New Salary or Hourly Pay
+
+URL: https://calc.streamerosai.com/pay-raise-calculator/
+
+Free · instant · no sign-up
+
+## Pay Raise Calculator
+
+Enter your current pay and the raise to see your new pay, or enter your old and new pay to find the percent raise. Works for salary and hourly wages.
+
+Current pay ( $)
+Pay basis per year per hour per month per week
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Raise (%)
+
+New pay per year $61,800
+Increase $1,800
+Raise 3%
+
+#### If you get this raise every year
+
+Year Pay per year
+Year 1 $61,800
+Year 2 $63,654
+Year 3 $65,564
+Year 4 $67,531
+Year 5 $69,556
+Gross pay, before taxes and deductions.
+
+### How to calculate a pay raise
+
+Three modes cover the usual questions:
+
+- Raise by %: new pay = current pay x (1 + raise / 100). It also shows what your pay becomes if you get the same percentage raise each year for five years, compounding.
+- Raise by amount: new pay = current pay + raise. The calculator reports the raise as a percentage of your current pay.
+- Find the % raise: raise % = (new pay - current pay) / current pay x 100. A negative result means a pay cut.
+Worked example: a 3% raise on $60,000. $60,000 x 1.03 = $61,800, an increase of $1,800 a year. Going the other way, from $60,000 to $62,500 is a 4.17% raise.
+
+### What a raise is worth on $60,000
+
+The same starting salary at different raise percentages, with the extra amount per month and per week, before tax.
+Raise New yearly pay Extra per year Extra per month Extra per week
+1 % $60,600 $600 $50.00 $11.54
+2 % $61,200 $1,200 $100.00 $23.08
+3 % $61,800 $1,800 $150.00 $34.62
+4 % $62,400 $2,400 $200.00 $46.15
+5 % $63,000 $3,000 $250.00 $57.69
+7 % $64,200 $4,200 $350.00 $80.77
+10 % $66,000 $6,000 $500.00 $115.38
+
+### A raise every year compounds
+
+A percentage raise is applied to last year&#x27;s pay, so the gains build on each other. Five years of 3% raises on $60,000:
+After Yearly pay Total gain so far
+Year 1 $61,800 $1,800
+Year 2 $63,654 $3,654
+Year 3 $65,564 $5,564
+Year 4 $67,531 $7,531
+Year 5 $69,556 $9,556
+
+### Is your raise a real raise?
+
+Prices change too, so a raise that matches the rise in prices leaves your buying power unchanged. The real change is (1 + raise) / (1 + inflation) - 1. The inflation rates below are examples to show the arithmetic, not forecasts; use the figure that applies to you.
+Your raise If prices rise 2 % If prices rise 3 % If prices rise 4 % If prices rise 5 %
+2 % 0% -0.97% -1.92% -2.86%
+3 % 0.98% 0% -0.96% -1.9%
+4 % 1.96% 0.97% 0% -0.95%
+5 % 2.94% 1.94% 0.96% 0%
+7 % 4.9% 3.88% 2.88% 1.9%
+
+### Getting back after a pay cut
+
+A percentage cut and the same percentage raise do not cancel out, because the raise applies to the lower pay.
+Pay cut Pay after the cut Raise needed to get back
+5 % $57,000 5.26%
+10 % $54,000 11.11%
+15 % $51,000 17.65%
+20 % $48,000 25%
+
+### What this calculator leaves out
+
+It works on gross pay. A raise adds less to take-home pay than to gross pay because tax and payroll deductions apply to it. To see the per-period effect, convert the new figure with the salary calculator, and to see the after-tax effect use the paycheck calculator with the old and new salary.
+
+### Frequently asked questions
+
+How do I calculate a percentage raise?
+Multiply your current pay by 1 plus the raise as a decimal. A 3% raise on $50,000 is $50,000 x 1.03 = $51,500, an increase of $1,500.
+
+How do I find what percent raise I got?
+Subtract your old pay from your new pay, divide by your old pay, and multiply by 100. Going from $50,000 to $55,000 is ($55,000 - $50,000) / $50,000 x 100 = 10%.
+
+What percent is a $5,000 raise?
+It depends on the starting pay. On $50,000 it is 10%; on $80,000 it is 6.25%; on $100,000 it is 5%.
+
+Does a raise work the same for hourly pay?
+Yes. The percentage is applied to the rate, so a 4% raise on $20.00 an hour gives $20.80 an hour. Multiply by your weekly hours to see the effect on a paycheck: at 40 hours that is $32.00 more a week.
+
+How much more per paycheck is a raise?
+Divide the yearly increase by the number of paychecks. A raise from $60,000 to $61,800 adds $69.23 to each bi-weekly check and $34.62 a week, before tax.
+
+Is the result before or after tax?
+Before. The calculator works on gross pay. Your take-home increase will be smaller because income tax and payroll deductions apply to the extra pay. The paycheck calculator shows the after-tax difference.
+
+How big does a raise need to be to keep up with inflation?
+At least as large as the rate prices are rising. If prices rise 3% and your pay rises 3%, your buying power is unchanged. A raise of 2% when prices rise 3% is a real change of -0.97%, which is a small pay cut in buying power.
+
+If my pay was cut, what raise gets me back?
+More than the size of the cut, because the raise applies to a smaller number. After a 10% cut you need a 11.11% raise to get back to where you were.
+
+What is a compounding raise?
+The same percentage raise each year, each applied to the previous year&#x27;s pay. Three years of 3% on $60,000 gives $65,564, which is more than three separate $1,800 increases would give ($65,400).
+
+### Related tools
+
+Salary Calculator Paycheck Calculator Hourly to Salary Calculator Salary to Hourly Calculator Overtime Pay Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Salary Calculator: Hourly, Weekly, Monthly, Annual
+
+URL: https://calc.streamerosai.com/salary-calculator/
+
+Free · instant · no sign-up
+
+## Salary Calculator
+
+Enter any pay figure and see it as hourly, daily, weekly, bi-weekly, semi-monthly, monthly, quarterly and annual pay. Adjust your schedule to match your job.
+Pay amount ( $)
+Per Hourly Daily Weekly Bi-weekly (every 2 weeks) Semi-monthly (twice a month) Monthly Quarterly Annual
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Also show in Same currency only USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Hours per week
+Days per week
+Weeks per year
+
+Annual $60,000
+Monthly $5,000.00
+
+Pay period Gross pay ( USD)
+Hourly $28.85
+Daily $230.77
+Weekly $1,153.85
+Bi-weekly (every 2 weeks) $2,307.69
+Semi-monthly (twice a month) $2,500.00
+Monthly $5,000.00
+Quarterly $15,000
+Annual $60,000
+Gross pay, before taxes and deductions.
+
+### How the conversion works
+
+Every conversion goes through annual pay. The calculator turns your figure into a year, then divides the year into the period you want. With a schedule of H hours a week, D days a week and W weeks a year:
+From Annual pay Back to this period
+Hourly rate x H x W annual / (H x W)
+Daily rate x D x W annual / (D x W)
+Weekly rate x W annual / W
+Bi-weekly rate x W / 2 annual / (W / 2)
+Semi-monthly rate x 24 annual / 24
+Monthly rate x 12 annual / 12
+Quarterly rate x 4 annual / 4
+
+### Example: a $60,000 salary in every period
+
+At 40 hours a week, 5 days a week and 52 weeks a year, a $60,000 salary is the same pay written different ways:
+Period Pay Count in a year
+Hourly $28.85 2,080 hours
+Daily $230.77 260 days
+Weekly $1,153.85 52 paychecks
+Bi-weekly $2,307.69 26 paychecks
+Semi-monthly $2,500.00 24 paychecks
+Monthly $5,000.00 12 paychecks
+Quarterly $15,000.00 4 payments
+A bi-weekly check is smaller than a semi-monthly one because there are more of them. A bi-weekly schedule usually has two months a year with three paychecks; a semi-monthly schedule never does. The US Office of Personnel Management notes that there are usually 26 bi-weekly pay dates a year, but that some calendar years have 27.
+
+### Common salaries as hourly, weekly and monthly pay
+
+Annual salary Monthly Bi-weekly Weekly Hourly
+$30,000 $2,500.00 $1,153.85 $576.92 $14.42
+$45,000 $3,750.00 $1,730.77 $865.38 $21.63
+$60,000 $5,000.00 $2,307.69 $1,153.85 $28.85
+$80,000 $6,666.67 $3,076.92 $1,538.46 $38.46
+$100,000 $8,333.33 $3,846.15 $1,923.08 $48.08
+$150,000 $12,500.00 $5,769.23 $2,884.62 $72.12
+
+### The same $25 an hour on different schedules
+
+Hours and weeks change the yearly figure, so set your own schedule in the calculator. Here is $25 an hour on five common ones.
+Schedule Annual Monthly Weekly
+Full time, all year ( 40 hours, 52 weeks) $52,000 $4,333.33 $1,000.00
+Full time, 2 weeks unpaid ( 40 hours, 50 weeks) $50,000 $4,166.67 $1,000.00
+35 hours a week ( 35 hours, 52 weeks) $45,500 $3,791.67 $875.00
+Part time, 30 hours ( 30 hours, 52 weeks) $39,000 $3,250.00 $750.00
+Part time, 20 hours ( 20 hours, 52 weeks) $26,000 $2,166.67 $500.00
+
+### What this calculator leaves out
+
+It gives gross pay for a steady schedule. It does not include overtime, bonuses, commissions or tips, and it does not take off tax or deductions. For one conversion in detail, see the hourly to salary and salary to hourly calculators, or read how the 2,080-hour rule works. For what reaches your bank account, use the paycheck calculator.
+
+### Sources
+
+- US Office of Personnel Management: computing hourly rates of pay using the 2,087-hour divisor (26 pay dates a year, sometimes 27), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert hourly pay to annual salary?
+Multiply your hourly rate by the hours you work in a week and by the weeks you work in a year. At 40 hours and 52 weeks that is 2,080 hours, so $25 an hour is $52,000 a year.
+
+How do I convert an annual salary to monthly pay?
+Divide by 12. A $60,000 salary is $5,000.00 a month. Do not multiply by 4 weeks; a year has 52 weeks, which is about 4.33 a month.
+
+Why is monthly pay not just four weeks of pay?
+A year has 52 weeks, which is about 4.33 weeks a month, not 4. At $25 an hour, four weeks is $4,000.00, but the true monthly figure is $4,333.33.
+
+What is the difference between bi-weekly and semi-monthly?
+Bi-weekly means every two weeks, which is 26 paychecks a year. Semi-monthly means twice a month, which is 24. A $60,000 salary pays $2,307.69 per bi-weekly check and $2,500.00 per semi-monthly check. The yearly total is the same.
+
+Why do some years have 27 pay dates?
+With bi-weekly pay there are usually 26 pay dates a year, but over several years some calendar years have 27, because 52 weeks is 364 days and a year has 365 or 366. The US Office of Personnel Management notes this for federal pay.
+
+How do I convert daily pay to annual pay?
+Multiply the daily rate by the days you work in a week and by the weeks in a year. At $230.77 a day, five days a week for 52 weeks, that is $60,000.
+
+Can I change the hours or weeks?
+Yes. Edit hours per week, days per week and weeks per year. Use fewer weeks if you take unpaid time off, and fewer hours for part-time work. Paid holidays and paid leave count as worked.
+
+Does this include overtime or bonuses?
+No. It assumes the same pay every period. Use the overtime pay calculator to add hours at a higher rate, and add bonuses to the annual figure yourself.
+
+Is this before or after tax?
+Before. These are gross figures. For take-home pay after tax, use the paycheck calculator.
+
+### Related tools
+
+Hourly to Salary Calculator Salary to Hourly Calculator Paycheck Calculator Pay Raise Calculator Overtime Pay Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Hourly to Salary Calculator: Convert Wages to Annual Pay
+
+URL: https://calc.streamerosai.com/hourly-to-salary-calculator/
+
+Free · instant · no sign-up
+
+## Hourly to Salary Calculator
+
+Enter your hourly wage to see your annual salary, plus monthly, bi-weekly and weekly pay. Change hours and weeks to match your schedule.
+Pay amount ( $)
+Per Hourly Daily Weekly Bi-weekly (every 2 weeks) Semi-monthly (twice a month) Monthly Quarterly Annual
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Also show in Same currency only USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Hours per week
+Days per week
+Weeks per year
+
+Annual $52,000
+Monthly $4,333.33
+
+Pay period Gross pay ( USD)
+Hourly $25.00
+Daily $200.00
+Weekly $1,000.00
+Bi-weekly (every 2 weeks) $2,000.00
+Semi-monthly (twice a month) $2,166.67
+Monthly $4,333.33
+Quarterly $13,000
+Annual $52,000
+Gross pay, before taxes and deductions.
+
+### How to convert hourly pay to a yearly salary
+
+Annual salary = hourly rate x hours per week x weeks per year. The standard full-time year is 40 hours x 52 weeks = 2,080 hours, which is the default here. Divide the annual figure by 12 for monthly pay, by 26 for bi-weekly pay, or by 52 for weekly pay.
+
+- Find your hours. Use the hours you are paid for in a typical week, 40 for full time.
+- Multiply by the weeks you are paid. 52 if you are paid all year, including paid holidays and leave.
+- Multiply by your hourly rate. That is the annual salary before tax.
+Worked example: $25 an hour, 40 hours, 52 weeks. 40 x 52 = 2,080 hours, and 2,080 x $25 = $52,000 a year. That is $4,333.33 a month, $2,000.00 every two weeks and $1,000.00 a week.
+
+### Hourly wage to salary chart
+
+Full-time (40 hours, 52 weeks) pay for common hourly rates.
+Hourly rate Annual Monthly Bi-weekly Weekly
+$12.00 $24,960 $2,080.00 $960.00 $480.00
+$15.00 $31,200 $2,600.00 $1,200.00 $600.00
+$18.00 $37,440 $3,120.00 $1,440.00 $720.00
+$20.00 $41,600 $3,466.67 $1,600.00 $800.00
+$25.00 $52,000 $4,333.33 $2,000.00 $1,000.00
+$30.00 $62,400 $5,200.00 $2,400.00 $1,200.00
+$40.00 $83,200 $6,933.33 $3,200.00 $1,600.00
+$50.00 $104,000 $8,666.67 $4,000.00 $2,000.00
+$75.00 $156,000 $13,000.00 $6,000.00 $3,000.00
+
+### How hours and weeks change the answer
+
+The yearly figure depends on your schedule as much as your rate. This table shows $25 an hour with different hours a week (down) and paid weeks a year (across).
+Hours a week 52 weeks 50 weeks 48 weeks
+20 hours $26,000 $25,000 $24,000
+30 hours $39,000 $37,500 $36,000
+35 hours $45,500 $43,750 $42,000
+40 hours $52,000 $50,000 $48,000
+
+### Hourly pay versus salary
+
+An hourly wage pays for every hour you work, including overtime at a higher rate where the law requires it. A salary is a fixed amount per year, so the real value of a salary depends on how many hours the job takes. When you compare an hourly offer with a salaried one, convert the salary to hourly with the salary to hourly calculator using the hours the job really takes.
+
+### What this calculator leaves out
+
+It assumes the same hours every week. It does not add overtime, shift differentials, bonuses or tips, and it does not take off tax. For a week with overtime, use the overtime pay calculator; for take-home pay, use the hourly paycheck calculator. To see the same pay in every period at once, use the salary calculator.
+
+### Frequently asked questions
+
+How do I turn an hourly wage into a salary?
+Multiply the hourly rate by hours per week and by 52. Full-time at 40 hours is 2,080 hours a year, so $25 an hour is $25 x 2,080 = $52,000.
+
+How much is $15 an hour per year?
+$31,200 a year at 40 hours a week for 52 weeks, which is $2,600.00 a month before tax.
+
+How much is $20 an hour per year?
+$41,600 a year at 40 hours a week for 52 weeks, or $3,466.67 a month before tax.
+
+How much is $30 an hour per year?
+$62,400 a year at 40 hours a week for 52 weeks, or $5,200.00 a month before tax.
+
+How do I calculate salary for part-time hours?
+Use your real weekly hours. At $18 an hour and 30 hours a week, annual pay is $18 x 30 x 52 = $28,080.
+
+What if I do not work all 52 weeks?
+Change weeks per year. At $25 an hour, 40 hours a week and 50 paid weeks, annual pay is $25 x 40 x 50 = $50,000. Paid vacation and holidays count as worked weeks; unpaid time off does not.
+
+How do I get monthly pay from an hourly wage?
+Work out the annual figure first, then divide by 12. $25 an hour is $52,000 a year, so $4,333.33 a month, not four weeks of pay, because a year has more than 48 weeks.
+
+Does this include overtime?
+No. It assumes the same hours every week. Use the overtime pay calculator to add hours paid at a higher rate.
+
+Is the answer before tax?
+Yes. It is gross pay before income tax and other deductions. The hourly paycheck calculator shows take-home pay.
+
+### Related tools
+
+Salary to Hourly Calculator Salary Calculator Hourly Paycheck Calculator Overtime Pay Calculator Pay Raise Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Salary to Hourly Calculator: Convert Salary to Hourly Wage
+
+URL: https://calc.streamerosai.com/salary-to-hourly-calculator/
+
+Free · instant · no sign-up
+
+## Salary to Hourly Calculator
+
+Enter your salary to see what it is worth per hour, plus daily, weekly and monthly pay. Set your real hours to see your effective hourly rate.
+Pay amount ( $)
+Per Hourly Daily Weekly Bi-weekly (every 2 weeks) Semi-monthly (twice a month) Monthly Quarterly Annual
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Also show in Same currency only USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Hours per week
+Days per week
+Weeks per year
+
+Hourly $28.85
+Weekly $1,153.85
+
+Pay period Gross pay ( USD)
+Hourly $28.85
+Daily $230.77
+Weekly $1,153.85
+Bi-weekly (every 2 weeks) $2,307.69
+Semi-monthly (twice a month) $2,500.00
+Monthly $5,000.00
+Quarterly $15,000
+Annual $60,000
+Gross pay, before taxes and deductions.
+
+### How to convert a salary to an hourly rate
+
+Hourly pay = annual salary / (hours per week x weeks per year). With the standard 2,080-hour year (40 hours x 52 weeks), divide your salary by 2,080.
+
+- Get the yearly figure. If you know a monthly salary, multiply by 12.
+- Count your yearly hours. Hours per week times weeks per year: 40 x 52 = 2,080.
+- Divide. Salary divided by yearly hours is the hourly rate.
+Worked example: $60,000 / 2,080 = $28.85 an hour. That is $230.77 a day and $1,153.85 a week. Our guide to the 2,080-hour rule explains where the number comes from.
+
+### Salary to hourly chart
+
+Hourly pay for common salaries at 40 hours a week for 52 weeks (2,080 hours), and at the 2,087-hour divisor the US federal government uses.
+Annual salary Hourly (2,080 hours) Hourly (2,087 hours) Weekly Monthly
+$30,000 $14.42 $14.37 $576.92 $2,500.00
+$40,000 $19.23 $19.17 $769.23 $3,333.33
+$50,000 $24.04 $23.96 $961.54 $4,166.67
+$60,000 $28.85 $28.75 $1,153.85 $5,000.00
+$75,000 $36.06 $35.94 $1,442.31 $6,250.00
+$100,000 $48.08 $47.92 $1,923.08 $8,333.33
+$150,000 $72.12 $71.87 $2,884.62 $12,500.00
+
+### Your real hourly rate depends on your real hours
+
+A salary does not change when you work extra hours, so every extra hour lowers your effective hourly rate. This is what a $60,000 and a $90,000 salary are worth per hour at different weekly hours.
+Hours a week $60,000 a year $90,000 a year Rate vs a 40-hour week
+40 hours $28.85 $43.27 baseline
+45 hours $25.64 $38.46 -11.1%
+50 hours $23.08 $34.62 -20%
+55 hours $20.98 $31.47 -27.3%
+60 hours $19.23 $28.85 -33.3%
+Put your real hours in the calculator before comparing a salary with an hourly offer. If an hourly job pays overtime and the salaried one does not, the gap is larger than the plain rates suggest; use the overtime pay calculator to price the hourly week.
+
+### 2,080 hours or 2,087 hours?
+
+2,080 is 40 hours x 52 weeks and is the usual convention. A calendar year is 365 or 366 days, which is a little more than 52 weeks, so the US federal pay system divides annual pay by 2,087 hours instead and rounds each hourly rate to the nearest cent. The Office of Personnel Management explains that 2,087 is the average number of work hours in a calendar year over a 28-year cycle. The difference is about 0.34%, or $0.10 an hour on a $60,000 salary. If your employer states a divisor, set weeks per year to match it.
+
+### What this calculator leaves out
+
+It gives gross pay and assumes the same hours every week. It does not model unpaid leave, bonuses or benefits, and it does not take off tax. To go the other way, use the hourly to salary calculator. For take-home pay, use the paycheck calculator.
+
+### Sources
+
+- US Office of Personnel Management: computing hourly rates of pay using the 2,087-hour divisor, checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I convert salary to hourly?
+Divide annual salary by the hours you work in a year. For a standard full-time year that is 40 x 52 = 2,080 hours, so $60,000 a year is $60,000 / 2,080 = $28.85 an hour.
+
+How do I convert a monthly salary to hourly?
+Multiply the monthly amount by 12 to get the annual figure, then divide by 2,080. $5,000 a month is $60,000 a year, or $28.85 an hour.
+
+How much is a $50,000 salary per hour?
+$24.04 an hour at 40 hours a week for 52 weeks. At 45 hours a week it is $21.37.
+
+How much is a $100,000 salary per hour?
+$48.08 an hour at 40 hours a week for 52 weeks, or $38.46 an hour if the job regularly takes 50 hours.
+
+What if I work more than 40 hours a week?
+Set hours per week to what you really work. A $60,000 salary at 50 hours a week is $60,000 / (50 x 52) = $23.08 an hour, well below the $28.85 you get at 40 hours.
+
+Why do some people use 2,087 hours?
+The US federal pay system divides annual pay by 2,087 hours, the average number of work hours in a calendar year over a 28-year cycle, because a calendar year is 365 or 366 days, not exactly 52 weeks. 2,080 is the common convention elsewhere. The two differ by about 0.34%: on $60,000 that is $28.85 against $28.75.
+
+Do paid holidays and vacation count as hours?
+Yes. If you are paid for them, they are part of the salary, so keep weeks per year at 52. Reduce the weeks only for unpaid time off.
+
+Is a salaried job paid for overtime?
+Not automatically. A salaried job that is exempt from overtime pays the same however many hours you work. A salaried job that is not exempt is owed overtime. The guide to overtime pay explains the difference.
+
+Is the hourly figure before tax?
+Yes. It is gross pay.
+
+### Related tools
+
+Hourly to Salary Calculator Salary Calculator Overtime Pay Calculator Paycheck Calculator Pay Raise Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Overtime Pay Calculator: Weekly Pay with Overtime
+
+URL: https://calc.streamerosai.com/overtime-pay-calculator/
+
+Free · instant · no sign-up
+
+## Overtime Pay Calculator
+
+Enter your hourly rate and the hours you worked this week to see regular pay, overtime pay and the total. Change the threshold or multiplier for your state or contract.
+Regular hourly rate ( $)
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Hours worked this week
+Overtime starts after (hours)
+Overtime multiplier 1.5x (time and a half) 2x (double time) 2.5x (double time and a half)
+
+Total pay for the week $950.00
+Overtime rate $30.00 /hr
+Overtime pay $150.00
+
+Part of the week Hours Pay
+Regular hours at $20.00 40 $800.00
+Overtime hours at $30.00 5 $150.00
+Gross pay, before taxes and deductions.
+
+### What overtime pay is
+
+Overtime pay is the higher rate paid for hours beyond a weekly limit. In the US the usual limit is 40 hours in a workweek and the usual rate is one and a half times your regular hourly rate, called time and a half.
+Weekly pay = regular hours x rate + overtime hours x rate x multiplier. Regular hours are the hours up to the threshold (40 by default). Overtime hours are everything beyond it. Time and a half uses a multiplier of 1.5 and double time uses 2.
+
+### How to calculate overtime pay
+
+- Split the week. Hours up to 40 are regular hours. Hours past 40 are overtime hours.
+- Pay regular hours at your rate. 40 hours at $20 is $800.
+- Pay overtime hours at the higher rate. $20 x 1.5 = $30, so each overtime hour pays $30.
+- Add them. The two parts make the week&#x27;s gross pay.
+Worked example: 45 hours at $20. Regular pay is 40 x $20 = $800.00. Overtime pay is 5 x $30 = $150.00. The week comes to $950.00. For the rate on its own, or a chart of common wages, use the time and a half calculator.
+
+### Weekly pay at $20 an hour, by hours worked
+
+The same rate, with overtime after 40 hours. The last column is the part of the week paid at time and a half.
+Hours worked Pay at 1.5x Pay at 2x Overtime pay at 1.5x
+40 $800.00 $800.00 $0.00
+42 $860.00 $880.00 $60.00
+45 $950.00 $1,000.00 $150.00
+48 $1,040.00 $1,120.00 $240.00
+50 $1,100.00 $1,200.00 $300.00
+55 $1,250.00 $1,400.00 $450.00
+60 $1,400.00 $1,600.00 $600.00
+
+### The rules that decide whether you get overtime
+
+The 40-hour week. The Fair Labor Standards Act says a covered employee may not work more than 40 hours in a workweek unless the extra hours are paid at “not less than one and one-half times the regular rate”.
+Each week stands alone. The Act uses a single workweek as its standard and does not allow hours to be averaged over two or more weeks. A 30-hour week followed by a 50-hour week has 10 overtime hours in the second week.
+The workweek. It is a fixed, regularly recurring period of 168 hours (seven consecutive 24-hour periods). It may begin on any day and at any hour, and once set it stays fixed.
+Exempt jobs. Some salaried jobs are exempt from overtime. For the federal executive, administrative and professional exemptions, the employee must be paid on a salary basis of at least $684 a week, which is $35,568 a year, and must also meet a duties test. A job title or a salary alone does not make someone exempt. The guide to overtime pay covers the exemptions in more detail.
+
+### Overtime rules differ by state
+
+The federal rule counts hours over 40 in a week. A state can go further. California, for example, requires:
+
+- one and one-half times the regular rate for hours over 8 and up to 12 in a workday, and for the first 8 hours on the seventh consecutive day of work in a workweek; and
+- double the regular rate for hours over 12 in a workday, and for hours over 8 on that seventh day.
+At $20 an hour, a 10-hour day in California is 8 x $20 + 2 x $30 = $220.00 before any weekly overtime. Other states have their own rules and exceptions, so check your state labor department. To model a daily rule here, set the threshold to the daily limit and enter that day&#x27;s hours.
+
+### When a bonus changes your overtime rate
+
+Overtime is based on your regular rate, which is your total pay for the week divided by the hours worked, not always the base wage. A bonus promised in advance, such as an attendance or production bonus, counts towards it. A bonus left entirely to the employer&#x27;s discretion, in both whether and how much, does not.
+The example in the federal regulations: a worker paid $12 an hour works 46 hours and earns a $46 production bonus. Straight-time pay is 46 x $12 = $552. Adding the bonus gives $598, and dividing by 46 hours gives a regular rate of $13.00. The 6 overtime hours earn an extra half of that rate: 6 x $6.50 = $39.00. The week&#x27;s total is $637. This calculator does not do that step for you; it uses the single rate you type in.
+
+### What this calculator leaves out
+
+It works on gross pay and one rate. It does not take off tax, handle two pay rates in the same week, add shift differentials or bonuses to the regular rate, or apply state daily overtime on its own. Treat the result as an estimate and check your payslip. For take-home pay, use the hourly paycheck calculator, and to turn a wage into a yearly figure use the hourly to salary calculator.
+
+### Sources
+
+- 29 U.S.C. 207, maximum hours (40 hours, one and one-half times the regular rate), checked 16 November 2026.
+- 29 CFR 778.104, each workweek stands alone (no averaging), checked 16 November 2026.
+- 29 CFR 778.105, determining the workweek (168 hours), checked 16 November 2026.
+- 29 CFR 778.110, hourly rate and bonus (the bonus example) and 778.211, discretionary bonuses, checked 16 November 2026.
+- 29 CFR 541.600, amount of salary required ($684 a week), checked 16 November 2026.
+- California Department of Industrial Relations: overtime, checked 16 November 2026.
+
+### Frequently asked questions
+
+How is overtime pay calculated?
+Pay the regular rate for hours up to the overtime threshold, and the regular rate times the multiplier for hours beyond it. At $20 an hour, 45 hours with time and a half is 40 x $20 + 5 x $30 = $950.00.
+
+How do I calculate overtime for a 50-hour week?
+At $15 an hour: 40 hours x $15 = $600, plus 10 hours x $22.50 = $225, which is $825.00. If your employer pays double time instead, the 10 hours are worth $300 and the week is $900.00.
+
+When does overtime start?
+Under the federal Fair Labor Standards Act, a covered employee must be paid at least one and one-half times the regular rate for hours worked over 40 in a workweek. Some states add their own rules, such as California, which also counts hours over 8 in a workday.
+
+Does the 40-hour rule average across two weeks?
+No. The federal rule takes a single workweek as its standard and does not allow averaging over two or more weeks. If you work 30 hours one week and 50 the next, you are owed overtime for the 10 hours in the second week, even though the two weeks average 40.
+
+What counts as a workweek?
+A fixed, regularly recurring period of 168 hours: seven consecutive 24-hour periods. It does not have to be a calendar week and can start on any day and hour. Once your employer sets the start, it stays fixed.
+
+Are salaried employees entitled to overtime?
+It depends on whether the job is exempt, which turns on duties and pay, not on being paid a salary. For the federal white-collar exemptions the regulation currently sets a minimum salary of $684 a week ($35,568 a year), and the duties test must also be met. A salaried employee who is non-exempt is owed overtime.
+
+Is a bonus part of the rate overtime is based on?
+Often, yes. The federal regular rate includes all pay for the work except specific exclusions. A bonus that is promised in advance, such as an attendance or production bonus, is part of it. A bonus left entirely to the employer&#x27;s discretion, in both whether it is paid and how much, is not. The example on this page works through one.
+
+Is overtime taxed at a higher rate?
+No. It is ordinary wages. A larger check can lead to more tax being withheld that period, but there is no special overtime tax rate. The time and a half calculator page covers a separate deduction for the extra half of overtime.
+
+How do I enter double time or a daily rule?
+Choose 2x in the multiplier list for double time. To model a daily rule, set the threshold to the daily limit (for example 8) and enter the hours for that one day, then add the days together.
+
+### Related tools
+
+Time and a Half Calculator Hourly Paycheck Calculator Hourly to Salary Calculator Salary Calculator Pay Raise Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Time and a Half Calculator: Overtime Rate and Pay
+
+URL: https://calc.streamerosai.com/time-and-a-half-calculator/
+
+Free · instant · no sign-up
+
+## Time and a Half Calculator
+
+Enter your regular hourly rate to see your time-and-a-half rate, what your overtime hours are worth, and how much of that is extra on top of regular pay.
+Regular hourly rate ( $)
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Hours at the higher rate
+Overtime multiplier 1.5x (time and a half) 2x (double time) 2.5x (double time and a half)
+
+Rate at 1.5 x $30.00 /hr
+Pay for 5 hour s $150.00
+Extra over regular pay $50.00
+
+Multiplier Hourly rate Pay for 5 hour s
+1x (regular pay) $20.00 $100.00
+1.5x $30.00 $150.00
+2x $40.00 $200.00
+2.5x $50.00 $250.00
+Gross pay, before taxes and deductions.
+
+### What time and a half means
+
+Time and a half is your regular hourly rate multiplied by 1.5. The “time” is your normal rate and the “half” is an extra 50% on top. At $20 an hour that is $20 + $10 = $30 an hour.
+Time and a half rate = regular hourly rate x 1.5
+
+### How to calculate time and a half
+
+- Find your regular hourly rate. If you are paid a salary, divide the yearly figure by 2,080 (40 hours x 52 weeks).
+- Multiply it by 1.5. That is the rate for each overtime hour.
+- Multiply by the overtime hours. That is your overtime pay before tax.
+A worked week: 45 hours at $20 an hour, with overtime after 40. The first 40 hours pay 40 x $20 = $800. The 5 overtime hours pay 5 x $30 = $150. The week comes to $950, which is $50 more than 45 hours at the regular rate. To run a whole week like this, use the overtime pay calculator.
+
+### Time and a half chart
+
+Rates at common hourly wages, and what 5 and 10 hours at time and a half are worth before tax.
+Regular rate Time and a half (1.5x) Double time (2x) 5 hours at 1.5x 10 hours at 1.5x
+$7.25 (federal minimum wage) $10.88 $14.50 $54.38 $108.75
+$10.00 $15.00 $20.00 $75.00 $150.00
+$12.00 $18.00 $24.00 $90.00 $180.00
+$15.00 $22.50 $30.00 $112.50 $225.00
+$16.00 $24.00 $32.00 $120.00 $240.00
+$18.00 $27.00 $36.00 $135.00 $270.00
+$20.00 $30.00 $40.00 $150.00 $300.00
+$22.00 $33.00 $44.00 $165.00 $330.00
+$25.00 $37.50 $50.00 $187.50 $375.00
+$28.00 $42.00 $56.00 $210.00 $420.00
+$30.00 $45.00 $60.00 $225.00 $450.00
+$35.00 $52.50 $70.00 $262.50 $525.00
+$40.00 $60.00 $80.00 $300.00 $600.00
+$50.00 $75.00 $100.00 $375.00 $750.00
+
+### Time and a half from a salary
+
+Divide the yearly salary by 2,080 to get an hourly rate, then multiply by 1.5. Change the 2,080 if your standard week is not 40 hours; the salary to hourly calculator does that for you.
+Yearly salary Hourly rate (2,080 hours) Time and a half
+$40,000 $19.23 $28.85
+$50,000 $24.04 $36.06
+$60,000 $28.85 $43.27
+$75,000 $36.06 $54.09
+$100,000 $48.08 $72.12
+A salary does not by itself decide whether you are owed overtime. That depends on whether the job is exempt, which the guide to overtime pay explains.
+
+### When the law requires time and a half
+
+Federal rule. The Fair Labor Standards Act says a covered employee may not work more than 40 hours in a workweek unless the extra hours are paid at “not less than one and one-half times the regular rate”. The count is per workweek, not per day, and the federal rule does not add a premium for nights, weekends or holidays.
+States can go further. California, for example, requires time and a half for hours over 8 and up to 12 in a workday and for the first 8 hours on the seventh day in a row of a workweek, and double time for hours over 12 in a workday and over 8 on that seventh day. Check your own state&#x27;s labor department for the rule that applies to you.
+Employer policy. Many employers pay time and a half or double time for holidays or hard-to-fill shifts by choice or by contract. That is on top of what the law requires, so the terms are in your contract or handbook.
+
+### Tax on the extra half
+
+Overtime pay is ordinary wages. For tax years 2025 through 2028 the IRS allows a deduction for the pay that exceeds your regular rate, the “half” in time and a half, when that overtime is required by the Fair Labor Standards Act. The most you can deduct is $12,500 a year ($25,000 for joint filers), and it phases out above $150,000 of modified adjusted gross income ($300,000 for joint filers). At $20 an hour, $10 of each $30 overtime hour is the half that can count. It is claimed on your tax return, so read the IRS page below for who qualifies.
+
+### What this calculator leaves out
+
+It works on gross pay and one hourly rate. It does not take off tax, and it does not handle a regular rate that includes bonuses, shift differentials or two different pay rates in one week, which can raise the rate overtime is based on. For take-home pay after tax, use the hourly paycheck calculator.
+
+### Sources
+
+- 29 U.S.C. 207, maximum hours (the federal 40-hour, one-and-one-half-times rule), checked 15 November 2026.
+- 29 U.S.C. 206, minimum wage ($7.25 an hour), checked 15 November 2026.
+- California Department of Industrial Relations: overtime, checked 15 November 2026.
+- IRS: tax deductions for working Americans and seniors (the overtime deduction), checked 15 November 2026.
+
+### Frequently asked questions
+
+What is time and a half?
+Pay at 1.5 times your regular hourly rate. If you earn $20 an hour, time and a half is $20 x 1.5 = $30 an hour. The extra $10 is the &#x27;half&#x27;.
+
+How do I calculate time and a half?
+Multiply your hourly rate by 1.5. To find pay for overtime hours, multiply that rate by the hours: 5 hours at $30 is $150.
+
+What is time and a half for $15 an hour?
+$22.50 an hour ($15 x 1.5). At $18 an hour it is $27.00, and at $25 an hour it is $37.50. The chart on this page lists more rates.
+
+Is time and a half the same as overtime?
+Usually, but not always. Overtime is the hours beyond a limit, and time and a half is the usual rate paid for them. Some overtime is paid at double time, and some employers pay time and a half for hours that are not overtime, such as holidays.
+
+What is double time?
+Pay at twice your regular rate. At $20 an hour, double time is $40 an hour. It is set by employer policy, union contract or state law, not by the federal overtime rule.
+
+Do I get time and a half for working holidays or weekends?
+Not under federal law. The Fair Labor Standards Act only requires it for hours over 40 in a workweek. A premium for a holiday or weekend comes from your employer&#x27;s policy or contract, unless those hours also take you past 40 for the week.
+
+Do salaried employees get time and a half?
+Only if the job is non-exempt. A salary alone does not remove the right to overtime; the exemption depends on the duties of the job and the pay level. An exempt salaried employee is not owed overtime under the federal rule.
+
+How do I calculate time and a half from a salary?
+First convert the salary to an hourly rate (annual salary / 2,080 for a standard year), then multiply by 1.5. A $60,000 salary is $28.85 an hour, so time and a half is about $43.27.
+
+Is time-and-a-half pay taxed differently?
+It is ordinary wages, but for tax years 2025 through 2028 the IRS allows a deduction for the &#x27;half&#x27; portion of overtime required by the Fair Labor Standards Act, up to $12,500 a year ($25,000 for joint filers). The deduction phases out above $150,000 of modified adjusted gross income ($300,000 for joint filers).
+
+### Related tools
+
+Overtime Pay Calculator Hourly Paycheck Calculator Salary to Hourly Calculator Hourly to Salary Calculator Pay Raise Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# EMI Calculator: Monthly Loan EMI with Amortization Table
+
+URL: https://calc.streamerosai.com/emi-calculator/
+
+Free · instant · no sign-up
+
+## EMI Calculator
+
+Enter the loan amount, interest rate and term to see your monthly EMI, total interest, and a year-by-year breakdown of how much of each payment goes to principal versus interest.
+Loan amount (₹)
+Interest rate, per year (%)
+Loan term (years)
+
+Monthly EMI ₹20,758
+Total interest ₹2,45,501
+Total payment ₹12,45,501
+
+#### Year-by-year breakdown
+
+Year Principal paid Interest paid Balance remaining
+Year 1 ₹1,65,830 ₹83,270 ₹8,34,170
+Year 2 ₹1,81,386 ₹67,714 ₹6,52,784
+Year 3 ₹1,98,401 ₹50,699 ₹4,54,383
+Year 4 ₹2,17,013 ₹32,088 ₹2,37,370
+Year 5 ₹2,37,370 ₹11,730 ₹0
+Full month-by-month amortization schedule ( 60 months)
+
+### What EMI means and how it is calculated
+
+EMI stands for Equated Monthly Instalment: a fixed payment made every month until the loan is repaid. For a reducing-balance loan, the formula is:
+EMI = [P x R x (1 + R)^N] / [(1 + R)^N - 1]
+
+- P is the principal, the amount borrowed.
+- R is the monthly interest rate: the annual rate divided by 12, then by 100.
+- N is the number of monthly instalments (years x 12).
+Each EMI pays the interest on the balance still owed that month, and the rest reduces the principal. Because the balance shrinks, the interest part shrinks and the principal part grows, even though the EMI stays the same. The calculator above shows this split for every year, and the full monthly table if you open it.
+
+### How to calculate EMI step by step
+
+- Convert the rate. 9 % a year is 9 / 12 / 100 = 0.0075 a month.
+- Count the instalments. 5 years x 12 = 60 months.
+- Apply the formula. For ₹10,00,000, the EMI is ₹20,758.
+- Find the totals. ₹20,758 x 60 = ₹12,45,501 paid, so ₹2,45,501 is interest.
+
+### How the tenure changes your EMI
+
+The same ₹10,00,000 loan at 9 % over different terms. A longer term lowers the EMI but raises the interest.
+Tenure Monthly EMI Total interest Total payment
+1 year ₹87,451 ₹49,418 ₹10,49,418
+2 years ₹45,685 ₹96,434 ₹10,96,434
+3 years ₹31,800 ₹1,44,790 ₹11,44,790
+5 years ₹20,758 ₹2,45,501 ₹12,45,501
+7 years ₹16,089 ₹3,51,483 ₹13,51,483
+10 years ₹12,668 ₹5,20,109 ₹15,20,109
+15 years ₹10,143 ₹8,25,680 ₹18,25,680
+
+### How the interest rate changes your EMI
+
+The same ₹10,00,000 loan over 5 years at different rates.
+Interest rate Monthly EMI Total interest EMI change vs 9 %
+7 % ₹19,801 ₹1,88,072 -₹957
+8 % ₹20,276 ₹2,16,584 -₹482
+9 % ₹20,758 ₹2,45,501 baseline
+10 % ₹21,247 ₹2,74,823 +₹489
+11 % ₹21,742 ₹3,04,545 +₹984
+12 % ₹22,244 ₹3,34,667 +₹1,486
+
+### Flat rate and reducing balance are not the same
+
+Some quotes, often for small or consumer loans, state a flat rate. Flat interest is charged on the full amount for the whole term, even though you repay part of it every month. A flat 9 % on ₹10,00,000 for 5 years is ₹10,00,000 x 9 % x 5 = ₹4,50,000 of interest, and an EMI of ( ₹10,00,000 + ₹4,50,000) / 60 = ₹24,167. The reducing-balance rate that gives that same EMI is about 15.7%. When you compare offers, ask which method the quoted rate uses.
+
+### What a part-prepayment does
+
+A lump sum paid towards the principal lowers the balance that interest is charged on. On the example loan, an extra ₹1,00,000 after the 12th EMI, with the EMI kept the same, clears the loan in 54 months instead of 60. Total interest falls from ₹2,45,501 to ₹2,05,431, a saving of ₹40,070. Your loan agreement says whether a prepayment charge applies and how a prepayment is applied (shorter tenure or lower EMI).
+
+### What this leaves out
+
+This is the standard EMI maths only. It does not include processing fees, insurance premiums some lenders bundle into the loan, GST on charges, or a floating-rate loan&#x27;s rate changing mid-term. Your lender&#x27;s sanction letter has the exact figures. For the loan size your income could support, see the loan eligibility calculator. For a specific loan type, use the home loan EMI or car loan EMI calculator.
+
+### Frequently asked questions
+
+What is the EMI formula?
+EMI = [P x R x (1 + R)^N] / [(1 + R)^N - 1], where P is the loan amount, R is the monthly interest rate (annual rate divided by 12 and by 100), and N is the number of monthly instalments. It is the standard reducing-balance formula.
+
+How do I calculate EMI for 10 lakh at 9% for 5 years?
+P is 10,00,000, R is 9 / 12 / 100 = 0.0075 and N is 60. The EMI works out to ₹20,758 a month. Total payment is ₹12,45,501, of which ₹2,45,501 is interest.
+
+Does the EMI stay the same every month?
+Yes, for a fixed-rate reducing-balance loan the EMI is constant. What changes each month is the split inside it: early instalments are mostly interest and later ones are mostly principal, because interest is charged on the shrinking balance.
+
+What is the difference between flat-rate and reducing-balance interest?
+Reducing-balance interest, used by this calculator, charges interest only on the outstanding balance. Flat-rate interest charges on the original amount for the full term. A flat 9% on ₹10,00,000 for 5 years means ₹4,50,000 of interest and an EMI of ₹24,167, which is the same as a reducing-balance rate of about 15.7%.
+
+How does a longer tenure change the EMI?
+It lowers the EMI and raises the total interest. On ₹10,00,000 at 9%, 3 years gives an EMI of ₹31,800 and ₹1,44,790 of interest; 10 years gives ₹12,668 and ₹5,20,109.
+
+How can I reduce my total interest?
+A shorter tenure, a larger down payment (lower principal), a lower interest rate, or a part-prepayment during the loan each cut total interest, since each lowers either the balance interest is charged on or how long it is charged for.
+
+How much does a part-prepayment save?
+On ₹10,00,000 at 9% for 5 years, paying an extra ₹1,00,000 after the 12th EMI and keeping the EMI the same clears the loan in 54 months instead of 60 and cuts total interest from ₹2,45,501 to ₹2,05,431. Check your loan agreement for any prepayment charge first.
+
+What happens to my EMI if the rate changes?
+On a floating-rate loan a rate change can change the EMI or the tenure. Your loan agreement and your lender&#x27;s notice say which. Enter the new rate and the remaining months in the calculator to see the new EMI.
+
+Does the EMI include processing fees or insurance?
+No. The calculator shows interest and principal only. Processing fees, insurance and other charges are separate, and your sanction letter lists them.
+
+### Related tools
+
+Home Loan EMI Calculator Car Loan EMI Calculator Loan Eligibility Calculator Compound Interest Calculator SIP Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Home Loan EMI Calculator: Monthly Payment & Interest
+
+URL: https://calc.streamerosai.com/home-loan-emi-calculator/
+
+Free · instant · no sign-up
+
+## Home Loan EMI Calculator
+
+Enter your home loan amount, interest rate and tenure to see the monthly EMI, total interest over the loan, and how the principal-to-interest split shifts year by year.
+Home loan amount (₹)
+Interest rate, per year (%)
+Loan term (years)
+
+Monthly EMI ₹30,374
+Total interest ₹37,89,715
+Total payment ₹72,89,715
+
+#### Year-by-year breakdown
+
+Year Principal paid Interest paid Balance remaining
+Year 1 ₹69,658 ₹2,94,828 ₹34,30,342
+Year 2 ₹75,815 ₹2,88,671 ₹33,54,527
+Year 3 ₹82,517 ₹2,81,969 ₹32,72,010
+Year 4 ₹89,810 ₹2,74,676 ₹31,82,200
+Year 5 ₹97,749 ₹2,66,737 ₹30,84,451
+Year 6 ₹1,06,389 ₹2,58,097 ₹29,78,063
+Year 7 ₹1,15,793 ₹2,48,693 ₹28,62,270
+Year 8 ₹1,26,028 ₹2,38,458 ₹27,36,243
+Year 9 ₹1,37,167 ₹2,27,319 ₹25,99,075
+Year 10 ₹1,49,292 ₹2,15,194 ₹24,49,784
+Year 11 ₹1,62,488 ₹2,01,998 ₹22,87,296
+Year 12 ₹1,76,850 ₹1,87,636 ₹21,10,446
+Year 13 ₹1,92,482 ₹1,72,004 ₹19,17,964
+Year 14 ₹2,09,496 ₹1,54,990 ₹17,08,469
+Year 15 ₹2,28,013 ₹1,36,473 ₹14,80,456
+Year 16 ₹2,48,167 ₹1,16,318 ₹12,32,288
+Year 17 ₹2,70,103 ₹94,383 ₹9,62,185
+Year 18 ₹2,93,978 ₹70,508 ₹6,68,207
+Year 19 ₹3,19,963 ₹44,523 ₹3,48,245
+Year 20 ₹3,48,245 ₹16,241 ₹0
+Full month-by-month amortization schedule ( 240 months)
+
+### How a home loan EMI is worked out
+
+A home loan EMI uses the standard reducing-balance formula: EMI = [P x R x (1 + R)^N] / [(1 + R)^N - 1]. P is the loan amount, R is the monthly rate (annual rate / 12 / 100) and N is the number of months. Home loans are usually the longest loan people take, so N is large (a 20-year loan is 240 months) and the total interest is large too.
+Worked example: ₹35,00,000 at 8.5 % for 20 years ( 240 months). The EMI is ₹30,374 a month. Over the full term you pay ₹72,89,715, of which ₹37,89,715 is interest, about 1.08 times the amount borrowed.
+
+### Why the early years are mostly interest
+
+Interest is charged on the balance you still owe. At the start the balance is the whole loan, so most of each EMI is interest. On the example loan, year 1 pays ₹2,94,828 of interest and only ₹69,658 of principal, so the balance falls from ₹35,00,000 to ₹34,30,342. In year 20 the split reverses: ₹3,48,245 of principal and ₹16,241 of interest.
+
+### How the tenure changes the cost
+
+The same ₹35,00,000 at 8.5 % over different terms.
+Tenure Monthly EMI Total interest Interest as a share of the loan
+10 years ₹43,395 ₹17,07,399 49%
+15 years ₹34,466 ₹27,03,859 77%
+20 years ₹30,374 ₹37,89,715 108%
+25 years ₹28,183 ₹49,54,884 142%
+30 years ₹26,912 ₹61,88,310 177%
+
+### How the down payment changes the loan
+
+Enter the amount you borrow, not the property price. For an example property priced at ₹50,00,000, at 8.5 % over 20 years:
+Down payment Down payment amount Loan amount Monthly EMI Total interest
+10 % ₹5,00,000 ₹45,00,000 ₹39,052 ₹48,72,491
+20 % ₹10,00,000 ₹40,00,000 ₹34,713 ₹43,31,103
+30 % ₹15,00,000 ₹35,00,000 ₹30,374 ₹37,89,715
+40 % ₹20,00,000 ₹30,00,000 ₹26,035 ₹32,48,327
+
+### If the rate changes during the loan
+
+On a floating-rate loan the rate can move. On the example loan, a rise of one percentage point (to 9.5 %) takes the EMI from ₹30,374 to ₹32,625 if the 20 -year tenure stays. If you keep paying ₹30,374, the loan runs for about 309 months instead of 240. Enter the new rate and the months left in the calculator to see your own case.
+
+### Tax on home loan interest
+
+The Income Tax Department&#x27;s guidance for salaried individuals (assessment year 2026-27) lists the Section 24(b) deduction for interest paid on a housing loan. For a self-occupied property under the old tax regime, the limit is ₹2,00,000 a year for a loan taken on or after 1 April 1999 for construction or purchase. Its list for the new tax regime shows the deduction for let-out property only. Which regime is better depends on your whole tax position; the income tax calculator compares the two. Confirm current rules with the department or a tax adviser.
+
+### What this leaves out
+
+This estimate does not include processing fees, property or life insurance a lender bundles in, or a floating rate that changes during the loan. It does not model prepayments. For whether your income supports a given loan size, see the loan eligibility calculator. For a general loan, use the EMI calculator.
+
+### Sources
+
+- Income Tax Department: ITR guidance for salaried individuals, AY 2026-27 (Section 24(b) and the two regimes), checked 16 November 2026.
+
+### Frequently asked questions
+
+How is a home loan EMI calculated?
+The same reducing-balance formula as any loan: EMI = [P x R x (1 + R)^N] / [(1 + R)^N - 1], where P is the loan amount, R is the monthly interest rate and N is the number of months. For ₹35,00,000 at 8.5% for 20 years, the EMI is ₹30,374.
+
+What is the EMI for a 50 lakh home loan?
+At 8.5% for 20 years, ₹50,00,000 gives an EMI of ₹43,391. At the same rate for 30 years it is ₹38,446. The rate is an example; use your lender&#x27;s rate.
+
+How much of my EMI goes to interest in the early years?
+A large share. On the ₹35,00,000 example, 81% of the first year&#x27;s payments is interest. The share falls as the balance falls, and by year 20 the loan is mostly principal.
+
+Does the down payment affect the EMI?
+Yes. A larger down payment lowers the principal you borrow, which lowers the EMI and the total interest, for the same rate and tenure. Enter the loan amount after your down payment, not the property price. On a ₹50,00,000 property, a 20% down payment leaves a ₹40,00,000 loan.
+
+Should I choose a longer tenure for a lower EMI?
+A longer tenure lowers the EMI but raises total interest. On ₹35,00,000 at 8.5%, 15 years costs ₹27,03,859 in interest and 25 years costs ₹49,54,884.
+
+What happens if the interest rate rises by 1 percentage point?
+On the example loan, the EMI for the same 20 years goes from ₹30,374 to ₹32,625. If you keep paying ₹30,374 instead, the loan takes about 309 months (25.8 years) to clear.
+
+Is home loan interest tax-deductible in India?
+It depends on your tax regime and the property. The Income Tax Department lists a deduction for interest on a housing loan under Section 24(b): for a self-occupied property under the old regime, up to ₹2,00,000 a year. Under the new regime its list shows the Section 24(b) deduction for let-out property only. Check the department&#x27;s page and your own situation before relying on it.
+
+Does the EMI include insurance and processing fees?
+No. The calculator shows interest and principal only. Processing fees, property or life insurance a lender bundles in, and other charges are separate.
+
+Can I see the month-by-month schedule?
+Yes. Open the full amortization schedule under the year-by-year table in the calculator.
+
+### Related tools
+
+EMI Calculator Loan Eligibility Calculator Income Tax Calculator (India) Car Loan EMI Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Car Loan EMI Calculator: Monthly Payment & Interest
+
+URL: https://calc.streamerosai.com/car-loan-emi-calculator/
+
+Free · instant · no sign-up
+
+## Car Loan EMI Calculator
+
+Enter your car or two-wheeler loan amount, interest rate and tenure to see the monthly EMI, total interest, and a year-by-year repayment breakdown.
+Loan amount (₹)
+Interest rate, per year (%)
+Loan term (years)
+
+Monthly EMI ₹16,801
+Total interest ₹2,08,089
+Total payment ₹10,08,089
+
+#### Year-by-year breakdown
+
+Year Principal paid Interest paid Balance remaining
+Year 1 ₹1,31,234 ₹70,383 ₹6,68,766
+Year 2 ₹1,44,259 ₹57,359 ₹5,24,506
+Year 3 ₹1,58,576 ₹43,041 ₹3,65,930
+Year 4 ₹1,74,315 ₹27,303 ₹1,91,615
+Year 5 ₹1,91,615 ₹10,003 ₹0
+Full month-by-month amortization schedule ( 60 months)
+
+### How a car loan EMI is worked out
+
+A car loan EMI is a fixed monthly payment on a reducing-balance loan: EMI = [P x R x (1 + R)^N] / [(1 + R)^N - 1]. P is the amount you borrow, R is the monthly rate (annual rate / 12 / 100) and N is the number of months.
+Worked example: ₹8,00,000 at 9.5 % for 5 years ( 60 months). The EMI is ₹16,801 a month. You pay ₹10,08,089 in total, of which ₹2,08,089 is interest, or 26% of the amount borrowed.
+
+### The loan amount is the price minus your down payment
+
+Lenders finance the part of the price you do not pay yourself. For an example car with an on-road price of ₹10,00,000, at 9.5 % over 5 years:
+Down payment You pay upfront Loan amount Monthly EMI Total interest
+10 % ₹1,00,000 ₹9,00,000 ₹18,902 ₹2,34,101
+20 % ₹2,00,000 ₹8,00,000 ₹16,801 ₹2,08,089
+30 % ₹3,00,000 ₹7,00,000 ₹14,701 ₹1,82,078
+40 % ₹4,00,000 ₹6,00,000 ₹12,601 ₹1,56,067
+
+### Choosing the tenure
+
+Shorter terms cost more each month and less overall. The same ₹8,00,000 at 9.5 %:
+Tenure Monthly EMI Total interest Total payment
+3 years ₹25,626 ₹1,22,549 ₹9,22,549
+4 years ₹20,099 ₹1,64,728 ₹9,64,728
+5 years ₹16,801 ₹2,08,089 ₹10,08,089
+6 years ₹14,620 ₹2,52,622 ₹10,52,622
+7 years ₹13,075 ₹2,98,316 ₹10,98,316
+Before you stretch a loan to lower the EMI, compare the total payment as well as the monthly figure. Lenders set their own maximum tenure and rate for car loans, so use the numbers in your offer.
+
+### Two-wheeler and small loans
+
+The same formula works for a bike or scooter. For ₹1,00,000 at 9.5 %, shorter terms are in months but you enter them in years (12 months is 1, 24 is 2):
+Term Monthly EMI Total interest
+12 months ₹8,768 ₹5,220
+24 months ₹4,591 ₹10,195
+36 months ₹3,203 ₹15,319
+
+### Costs outside the EMI
+
+The EMI covers principal and interest. A processing fee is extra: an example fee of 1 % on ₹8,00,000 is ₹8,000, which adds to what the loan costs you even though it is not in the EMI. Insurance and registration are also separate. Add them to your own budget when you compare offers.
+
+### What this leaves out
+
+This is the EMI maths only. It does not include the processing fee, insurance the dealer may offer to finance, registration charges, or a rate that changes during the loan. Your offer letter has the exact figures. To check whether an EMI fits your income, see the loan eligibility calculator; for a larger or longer loan, the home loan EMI calculator.
+
+### Frequently asked questions
+
+How is a car loan EMI calculated?
+The same reducing-balance formula as any EMI: EMI = [P x R x (1 + R)^N] / [(1 + R)^N - 1]. For ₹8,00,000 at 9.5% for 5 years, the EMI is ₹16,801 and the total interest is ₹2,08,089.
+
+What is the EMI for a 5 lakh car loan?
+At 9.5% for 5 years, ₹5,00,000 gives an EMI of ₹10,501. For 3 years it is ₹16,016. The rate is an example; use the rate in your offer.
+
+Should I include the down payment in the loan amount?
+No. Enter only the amount you borrow, after subtracting your down payment from the vehicle&#x27;s on-road price. On a ₹10,00,000 car, a 20% down payment means borrowing ₹8,00,000.
+
+Is a longer car loan tenure a good idea?
+It lowers the EMI but raises the total interest. On ₹8,00,000 at 9.5%, 3 years costs ₹1,22,549 in interest and 7 years costs ₹2,98,316. Lenders set their own maximum tenure for car loans, so check the terms in your offer.
+
+How much extra does a processing fee add?
+It is on top of the EMI. An example fee of 1% on ₹8,00,000 is ₹8,000. Your offer states the actual fee and whether it is charged upfront or added to the loan.
+
+How much does a one percentage point lower rate save?
+On ₹8,00,000 over 5 years, 9.5% costs ₹2,08,089 in interest and 8.5% costs ₹1,84,794, a saving of ₹23,296.
+
+Can I use this for a two-wheeler loan?
+Yes. Enter the amount, rate and term. For example, ₹1,00,000 at 9.5% over 24 months is an EMI of ₹4,591. Set the term in years, so 24 months is 2.
+
+Does my credit score affect the rate I am offered?
+Lenders consider your credit history along with income, the loan size and their own policy, so the rate in your offer can differ from the rate you enter here. Always enter the rate from the offer you have.
+
+Does the EMI cover insurance and registration?
+No. The calculator shows principal and interest only. Insurance, registration and other charges are separate, whether you pay them upfront or finance them.
+
+### Related tools
+
+EMI Calculator Home Loan EMI Calculator Loan Eligibility Calculator SIP Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# SIP Calculator: Mutual Fund SIP Returns
+
+URL: https://calc.streamerosai.com/sip-calculator/
+
+Free · instant · no sign-up
+
+## SIP Calculator
+
+Enter a monthly SIP amount, an expected annual return, and a duration to project the future value of your investment, year by year.
+Monthly SIP amount (₹)
+Expected annual return (%)
+Investment period (years)
+
+Projected value ₹11,61,695
+Amount invested ₹6,00,000
+Estimated returns ₹5,61,695
+
+#### Year-by-year growth
+
+Year Invested so far Projected value
+Year 1 ₹60,000 ₹64,047
+Year 2 ₹1,20,000 ₹1,36,216
+Year 3 ₹1,80,000 ₹2,17,538
+Year 4 ₹2,40,000 ₹3,09,174
+Year 5 ₹3,00,000 ₹4,12,432
+Year 6 ₹3,60,000 ₹5,28,785
+Year 7 ₹4,20,000 ₹6,59,895
+Year 8 ₹4,80,000 ₹8,07,633
+Year 9 ₹5,40,000 ₹9,74,108
+Year 10 ₹6,00,000 ₹11,61,695
+The return rate is an assumption you set, not a guarantee. Mutual fund returns are market-linked and will differ from this projection.
+
+### How a SIP projection is calculated
+
+Future value = P x [((1 + i)^n - 1) / i] x (1 + i)
+
+- P is the amount invested each month.
+- i is the assumed monthly return: the annual return divided by 12, then by 100.
+- n is the number of months invested.
+It adds up a series of equal monthly investments, each growing at the assumed rate from the start of its month until the end. The first instalment grows for all n months and the last for one.
+
+### How to use the SIP calculator
+
+- Enter the monthly amount you could invest every month.
+- Enter a return you assume. It is your assumption; no one can promise a return on a market-linked fund.
+- Enter the years. The table shows the amount invested and the projected value at the end of each year.
+Worked example: ₹5,000 a month for 10 years at an assumed 12 % a year. You invest ₹6,00,000 ( ₹5,000 x 120 months). The projected value is ₹11,61,695, so ₹5,61,695 of it is projected growth, if the 12 % held for the whole period.
+
+### Projected value for different returns and durations
+
+₹5,000 a month. The returns across the top are assumptions to compare, not predictions of what any fund will do.
+Years Invested At 6 % a year At 8 % a year At 10 % a year At 12 % a year
+5 years ₹3,00,000 ₹3,50,594 ₹3,69,834 ₹3,90,412 ₹4,12,432
+10 years ₹6,00,000 ₹8,23,494 ₹9,20,828 ₹10,32,760 ₹11,61,695
+15 years ₹9,00,000 ₹14,61,364 ₹17,41,726 ₹20,89,621 ₹25,22,880
+20 years ₹12,00,000 ₹23,21,755 ₹29,64,736 ₹38,28,485 ₹49,95,740
+25 years ₹15,00,000 ₹34,82,295 ₹47,86,833 ₹66,89,452 ₹94,88,175
+30 years ₹18,00,000 ₹50,47,688 ₹75,01,476 ₹1,13,96,627 ₹1,76,49,569
+
+### Different monthly amounts
+
+At an assumed 12 % a year. A SIP scales with the amount: ten times the monthly amount gives ten times the projected value.
+Monthly amount Invested over 10 years Projected after 10 years Projected after 20 years
+₹1,000 ₹1,20,000 ₹2,32,339 ₹9,99,148
+₹2,500 ₹3,00,000 ₹5,80,848 ₹24,97,870
+₹5,000 ₹6,00,000 ₹11,61,695 ₹49,95,740
+₹10,000 ₹12,00,000 ₹23,23,391 ₹99,91,479
+₹25,000 ₹30,00,000 ₹58,08,477 ₹2,49,78,698
+
+### The cost of waiting
+
+The same ₹5,000 a month at an assumed 12 %, started with different amounts of time left to run. Compare the projected value, not just the amount invested: the years add far more than the instalments do.
+Years invested Invested Projected value Projected growth
+30 years ₹18,00,000 ₹1,76,49,569 ₹1,58,49,569
+25 years ₹15,00,000 ₹94,88,175 ₹79,88,175
+20 years ₹12,00,000 ₹49,95,740 ₹37,95,740
+15 years ₹9,00,000 ₹25,22,880 ₹16,22,880
+10 years ₹6,00,000 ₹11,61,695 ₹5,61,695
+
+### SIP compared with a lump sum
+
+Suppose you invest the same total, ₹6,00,000, either as ₹5,000 a month for 10 years or as one lump sum on day one, at an assumed 12 % a year in both cases. The SIP projects to ₹11,61,695. The lump sum, compounded monthly, projects to ₹19,80,232. The lump sum is larger only because all of the money starts working on day one; most people do not have it on day one. A SIP fits the way income arrives. The compound interest calculator handles the lump sum.
+
+### What this leaves out
+
+This is a projection from one assumed, constant return rate. Real market returns vary from year to year and can be negative, so the actual result will differ. It does not include fund expenses, exit loads, taxes on gains, or any rise in your monthly amount over time. Read the fund&#x27;s documents before you invest.
+
+### Frequently asked questions
+
+What is a SIP?
+A Systematic Investment Plan is a fixed amount invested into a mutual fund at a set interval, usually monthly, instead of one lump sum. You buy in at many different prices over time rather than at one price.
+
+How is SIP future value calculated?
+FV = P x [((1 + i)^n - 1) / i] x (1 + i), where P is the monthly amount, i is the assumed monthly return (annual return divided by 12 and by 100), and n is the number of months. The extra (1 + i) factor treats each instalment as invested at the start of its month.
+
+How much will a SIP of 5,000 a month be worth in 10 years?
+It depends on the return you assume, which nobody can promise. At an assumed 12% a year, ₹5,000 a month for 10 years invests ₹6,00,000 and projects to ₹11,61,695. At an assumed 8% it projects to ₹9,20,828, and at 6% to ₹8,23,494.
+
+Is the return rate guaranteed?
+No. The rate you enter is an assumption for projection only. Mutual fund SIPs are market-linked, and the actual return can be higher or lower than any rate you assume here, including negative in a bad year.
+
+What return rate should I assume?
+That is your own assumption to make, and the calculator does not suggest one. Try a low, a middle and a high figure, as the table on this page does, and plan around the low one.
+
+Does starting early matter?
+Yes, because time does more of the work than the amount. At an assumed 12%, ₹5,000 a month for 30 years projects to ₹1,76,49,569, while 20 years projects to ₹49,95,740. The table on this page shows the cost of waiting.
+
+Is SIP better than a lump sum investment?
+Neither is better in every case. With the same return assumed, a lump sum invested on day one grows more than a SIP of the same total, because more money is invested earlier: ₹19,80,232 against ₹11,61,695 for ₹6,00,000 over 10 years at 12%. A SIP fits money that arrives monthly, and it avoids choosing one day to invest everything.
+
+What is the difference between a SIP and a recurring deposit?
+A recurring deposit pays a rate fixed by the bank. A mutual fund SIP buys fund units, whose value moves with the market, so there is no fixed rate. For a fixed-rate deposit, use the compound interest calculator.
+
+Does this include taxes, fees and fund charges?
+No. It shows the gross projection at the rate you enter. Fund expenses, exit loads and taxes on gains reduce what you keep, so read the fund&#x27;s documents and a current tax guide.
+
+### Related tools
+
+Compound Interest Calculator EMI Calculator Percentage Calculator Income Tax Calculator (India)
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Loan Eligibility Calculator: Max Loan from Income
+
+URL: https://calc.streamerosai.com/loan-eligibility-calculator/
+
+Free · instant · no sign-up
+
+## Loan Eligibility Calculator
+
+Enter your monthly income, any existing EMIs, and a loan rate and tenure to see roughly how large a loan your income could support, using the FOIR approach lenders commonly apply.
+Net monthly income (₹)
+Existing EMIs per month (₹)
+Lender&#x27;s EMI limit, FOIR (%) Each lender sets its own limit; 50% is the default here
+Interest rate, per year (%)
+Loan term (years)
+
+Loan amount you likely qualify for ₹14,45,201
+Affordable EMI ₹30,000
+Total interest on that loan ₹3,54,799
+
+An estimate based on income and existing EMIs only. Lenders also weigh credit score, employment type, age, collateral and their own policy, so the real sanctioned amount can differ.
+
+### How loan eligibility is estimated
+
+Lenders commonly size a loan by capping all monthly EMIs, the new one plus existing ones, at a share of net income. That share is the Fixed Obligation to Income Ratio (FOIR). Each lender sets its own, so the figure is yours to change here. The estimate works in three steps:
+
+- Take the FOIR share of your income. 50 % of ₹60,000 is ₹30,000, your total EMI budget.
+- Subtract your existing EMIs. With none, the whole ₹30,000 is available for the new loan.
+- Run that EMI through the formula in reverse. Loan = EMI x [(1 + R)^N - 1] / [R x (1 + R)^N], with R the monthly rate and N the months. At 9 % for 5 years this gives ₹14,45,201.
+Check: the EMI on ₹14,45,201 at 9 % for 5 years is ₹30,000. For any loan amount, the EMI calculator shows the EMI directly.
+
+### Loan amount by income and tenure
+
+With a 50 % limit, no existing EMIs and an example rate of 9 %. The rate is an assumption for the table; use the rate you are offered in the calculator.
+Net monthly income EMI budget Loan over 5 years Loan over 10 years Loan over 20 years
+₹30,000 ₹15,000 ₹7,22,601 ₹11,84,125 ₹16,67,174
+₹50,000 ₹25,000 ₹12,04,334 ₹19,73,542 ₹27,78,624
+₹75,000 ₹37,500 ₹18,06,502 ₹29,60,313 ₹41,67,936
+₹1,00,000 ₹50,000 ₹24,08,669 ₹39,47,085 ₹55,57,248
+₹1,50,000 ₹75,000 ₹36,13,003 ₹59,20,627 ₹83,35,872
+
+### What existing EMIs do to the amount
+
+On ₹1,00,000 of net monthly income with a 50 % limit, at 9 % for 20 years. Every rupee of existing EMI comes out of the budget.
+Existing EMIs Budget for the new EMI Loan you could support
+₹0 ₹50,000 ₹55,57,248
+₹10,000 ₹40,000 ₹44,45,798
+₹20,000 ₹30,000 ₹33,34,349
+₹30,000 ₹20,000 ₹22,22,899
+
+### What a different EMI limit does
+
+Because lenders set their own limit, try a few. On ₹60,000 of income at 9 % for 5 years:
+EMI limit (FOIR) EMI budget Loan you could support
+30 % ₹18,000 ₹8,67,121
+40 % ₹24,000 ₹11,56,161
+50 % ₹30,000 ₹14,45,201
+60 % ₹36,000 ₹17,34,241
+
+### What this leaves out
+
+Real approval also depends on your credit history, how stable your employment is, your age when the loan would end, the value of the asset for a secured loan, and the lender&#x27;s own risk policy. Treat the figure here as a starting estimate to plan around, not a sanction amount. It also does not include fees or insurance. For the full cost of a loan you are considering, use the home loan EMI or car loan EMI calculator.
+
+### Frequently asked questions
+
+What is FOIR, and why does it matter for loan eligibility?
+FOIR, Fixed Obligation to Income Ratio, is the share of your net monthly income that goes to all EMIs combined, including the new loan. Each lender sets its own limit. This calculator uses 50% as a default and lets you change it. At 50% on ₹60,000 a month, your total EMI budget is ₹30,000.
+
+How is loan eligibility calculated?
+Your EMI budget is net income x FOIR minus existing EMIs. That EMI is then run through the EMI formula in reverse, at your rate and term, to get the loan amount. ₹30,000 a month at 9% for 5 years supports about ₹14,45,201.
+
+How does an existing EMI affect how much I can borrow?
+It is subtracted from your EMI budget before the new loan is sized. At a 50% limit on ₹1,00,000 of income, the budget is ₹50,000; a ₹10,000 existing EMI leaves ₹40,000, and at 9% for 20 years that supports about ₹44,45,798 instead of ₹55,57,248.
+
+Does a longer tenure increase how much I can borrow?
+Yes. The same EMI supports a larger principal over a longer term. ₹30,000 a month at 9% supports about ₹14,45,201 over 5 years and ₹33,34,349 over 20 years. A longer term also means more total interest, so compare it on the EMI calculator.
+
+Should I use gross or net income?
+Net monthly income: what reaches your account after tax and other deductions. Using gross income overstates what you can set aside for EMIs.
+
+Why might a bank approve less than this calculator shows?
+This estimate only looks at income, existing EMIs, rate and term. Lenders also look at your credit history, employment, age, the value of what you are buying and their own policy, any of which can change the amount offered.
+
+Can I include a co-applicant&#x27;s income?
+Add the net incomes together and enter the total, and add the EMIs of both applicants to existing EMIs. How a lender treats a joint application is up to the lender.
+
+How can I improve my eligibility?
+Clear or reduce existing EMIs, add a co-applicant&#x27;s income, choose a longer term, or look for a lower rate. Each one raises the EMI budget or the loan it supports. A longer term raises total interest.
+
+Is a loan I qualify for a loan I can afford?
+Not necessarily. A high FOIR leaves less of your income for everything else. Use the EMI calculator to check the EMI against your own monthly costs before you take the full amount.
+
+### Related tools
+
+EMI Calculator Home Loan EMI Calculator Car Loan EMI Calculator Income Tax Calculator (India)
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# GST Calculator India: Add or Remove GST (5%, 18%, 40%)
+
+URL: https://calc.streamerosai.com/gst-calculator/
+
+Free · instant · no sign-up
+
+## GST Calculator
+
+Add GST to a price, or pull it back out of a price that already includes tax, at 5%, 18%, 40% or any rate you enter, with the CGST and SGST split shown.
+
+Amount before GST (₹)
+GST rate (%) 5 % 18 % 40 % 12 % (rate before 22 Sep 2025) 28 % (rate before 22 Sep 2025) Other rate
+
+Total, including GST ₹1,180.00
+GST amount ₹180.00
+CGST + SGST ₹90.00 + ₹90.00
+
+CGST and SGST (split evenly) apply within one state; an inter-state sale charges the same total as IGST instead.
+
+### How GST is added and removed
+
+Adding GST (price without tax known): GST amount = base x rate / 100; total = base + GST amount.
+Removing GST (price with tax known): base = total / (1 + rate / 100); GST amount = total - base. This is the direction people get wrong most often: the rate was added to the base, so you divide the total by (1 + rate / 100). Taking the rate off the total overstates the GST.
+
+### Worked examples
+
+- Add 18% to ₹1,000. GST is ₹180. Total is ₹1,180. For a sale within one state, that is ₹90 CGST and ₹90 SGST.
+- Remove 18% from ₹1,180. Base = ₹1,180 / 1.18 = ₹1,000. GST = ₹1,180 - ₹1,000 = ₹180.
+- The common mistake. ₹1,180 x 18% = ₹212.40, which would leave a base of ₹967.60. That is not the original ₹1,000.
+
+### GST rates in India
+
+The GST Council&#x27;s 56th meeting (3 September 2025) recommended replacing the four-tier rate structure with two main rates: a standard rate of 18% and a merit rate of 5%, plus a special rate of 40% for a select few goods and services. The changes on services, and on goods other than a few tobacco products, took effect on 22 September 2025. The 12% and 28% slabs that applied before are no longer used for new supplies of most items, but they still appear on invoices dated before the change. The rate for a particular item is set in the rate notification, so look the item up there; this page does not list items.
+GST rate GST on ₹1,000 Total with GST CGST + SGST (within a state) GST inside ₹1,000
+5 % ₹50.00 ₹1,050.00 ₹25.00 + ₹25.00 ₹47.62
+12 % (before 22 Sep 2025) ₹120.00 ₹1,120.00 ₹60.00 + ₹60.00 ₹107.14
+18 % ₹180.00 ₹1,180.00 ₹90.00 + ₹90.00 ₹152.54
+28 % (before 22 Sep 2025) ₹280.00 ₹1,280.00 ₹140.00 + ₹140.00 ₹218.75
+40 % ₹400.00 ₹1,400.00 ₹200.00 + ₹200.00 ₹285.71
+The last column answers the other question: if ₹1,000 is the price including GST, this is the tax inside it.
+
+### Which rate applies when a rate changes
+
+When a rate changes, the rate follows the time of supply. The GST Council&#x27;s FAQs on the 2025 changes work through cases such as goods supplied before the change but invoiced after it, and advances received before it. They refer to Section 14 of the CGST Act. If you have such an invoice, read those FAQs or ask a tax professional; the calculator only does the arithmetic once you choose the rate.
+
+### CGST, SGST and IGST
+
+For a supply within one state, the GST is shown as CGST (central) and SGST (state), each half of the rate: at 18% that is 9% and 9%. For a supply between states, the same total is charged once as IGST. The GST amount is the same either way, which is why this calculator shows one GST figure and the even split beside it.
+
+### What this calculator leaves out
+
+It does the arithmetic on one price at one rate. It does not know which rate applies to your item, it does not include input tax credit, cess or reverse charge, and it does not rework invoices that mix rates. For a percentage of any amount, use the percentage calculator; for income tax, the India income tax calculator.
+
+### Sources
+
+- GST Council: recommendations of the 56th meeting (press release, 3 September 2025) (the 5%, 18% and 40% structure and the 22 September 2025 date), checked 16 November 2026.
+- GST Council: FAQs on the decisions of the 56th meeting (time of supply when rates change), checked 16 November 2026.
+
+### Frequently asked questions
+
+How do I add GST to a price?
+GST amount = price x (rate / 100); total = price + GST amount. For ₹1,000 at 18%, GST is ₹180 and the total is ₹1,180.
+
+How do I remove GST from a price that already includes it?
+Base price = total / (1 + rate / 100); GST amount = total - base price. For a ₹1,180 total at 18%, the base price is ₹1,000 and the GST portion is ₹180.
+
+What are the GST rates in India now?
+After the 56th GST Council meeting, most goods and services moved to a two-rate structure: a standard rate of 18% and a merit rate of 5%, with a special rate of 40% for a few goods and services. The changes took effect on 22 September 2025, except for cigarettes, chewing tobacco products and similar goods, which kept their existing rates until a later date to be notified.
+
+Are the 12% and 28% GST rates still used?
+Not for new supplies of most goods and services: the Council&#x27;s changes replaced them with 5% and 18% (or 40% for some goods and services). They still appear on invoices for supplies made before 22 September 2025, so this calculator lists them as older rates. Which rate applies to a specific item is in the rate notification.
+
+Which GST rate applies if the invoice date and the supply date are on different sides of a rate change?
+The rate follows the time of supply rules in Section 14 of the CGST Act. The GST Council&#x27;s FAQs explain how it works when goods or services were supplied before a change and invoiced after, and for advances. Read the FAQ linked in the sources, or ask a tax professional about your case.
+
+What is the difference between CGST, SGST and IGST?
+For a sale within one state, GST is shown as CGST (central) and SGST (state), each half of the total rate. For a sale between states, the full rate is charged once as IGST. Either way, the total tax is the same, which is why the GST amount in this calculator does not change.
+
+How do I calculate 18% GST on 1,000?
+₹1,000 x 18% = ₹180 of GST, so the total is ₹1,180. Split evenly, that is ₹90 CGST and ₹90 SGST within one state.
+
+Why can&#x27;t I just take 18% off a GST-inclusive price?
+Because the 18% was added to the base price, not to the total. Taking 18% off ₹1,180 gives ₹967.60, which is wrong. The correct base is ₹1,000.00.
+
+Can I use a rate that is not in the list?
+Yes. Choose Other rate and type any percentage, for example a rate shown on an older invoice or a special rate for a particular item.
+
+### Related tools
+
+Percentage Calculator Income Tax Calculator (India) Compound Interest Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Compound Interest Calculator: Maturity Value by Year
+
+URL: https://calc.streamerosai.com/compound-interest-calculator/
+
+Free · instant · no sign-up
+
+## Compound Interest Calculator
+
+Enter a principal amount, annual rate, time and compounding frequency to see the maturity value, total interest, and how the balance grows year by year.
+Principal amount (₹)
+Annual interest rate (%)
+Time (years)
+Compounding frequency Annually Semi-annually Quarterly Monthly
+
+Maturity value ₹2,15,892
+Total interest ₹1,15,892
+Effective annual rate 8%
+
+#### Year-by-year growth
+
+Year Value Interest that year
+Year 1 ₹1,08,000 ₹8,000
+Year 2 ₹1,16,640 ₹8,640
+Year 3 ₹1,25,971 ₹9,331
+Year 4 ₹1,36,049 ₹10,078
+Year 5 ₹1,46,933 ₹10,884
+Year 6 ₹1,58,687 ₹11,755
+Year 7 ₹1,71,382 ₹12,695
+Year 8 ₹1,85,093 ₹13,711
+Year 9 ₹1,99,900 ₹14,807
+Year 10 ₹2,15,892 ₹15,992
+
+### The compound interest formula
+
+A = P(1 + r/n)^(nt)
+
+- P is the principal amount invested.
+- r is the annual interest rate as a decimal (8% is 0.08).
+- n is how many times a year interest compounds (1 annually, 4 quarterly, 12 monthly).
+- t is the time in years.
+Compounding means interest is added to the balance and then earns interest itself. The interest earned is A minus P.
+
+### How to calculate compound interest
+
+- Divide the rate by the periods. 8 % compounded annually: 0.08 / 1 = 0.08. Monthly: 0.08 / 12 = 0.006667.
+- Count the periods. 10 years x 1 = 10 periods, or 10 x 12 = 120 for monthly.
+- Raise (1 + r/n) to the number of periods and multiply by the principal.
+Worked example: ₹1,00,000 at 8 % for 10 years, compounded annually, grows to ₹2,15,892. That is ₹1,15,892 of interest. Compounded monthly, the same 8 % grows it to ₹2,21,964.
+
+### Compounding frequency compared
+
+₹1,00,000 at 8 % for 10 years, changing only how often interest is added. The effective annual rate is the yearly rate that would give the same result.
+Compounded Maturity value Interest Effective annual rate
+Annually ₹2,15,892 ₹1,15,892 8%
+Semi-annually ₹2,19,112 ₹1,19,112 8.16%
+Quarterly ₹2,20,804 ₹1,20,804 8.243%
+Monthly ₹2,21,964 ₹1,21,964 8.3%
+Daily (365) ₹2,22,535 ₹1,22,535 8.328%
+
+### Growth of ₹1,00,000 at different rates and times
+
+Compounded annually. The rates are examples to compare, not rates any product pays.
+Rate After 5 years After 10 years After 20 years After 30 years
+4 % ₹1,21,665 ₹1,48,024 ₹2,19,112 ₹3,24,340
+6 % ₹1,33,823 ₹1,79,085 ₹3,20,714 ₹5,74,349
+8 % ₹1,46,933 ₹2,15,892 ₹4,66,096 ₹10,06,266
+10 % ₹1,61,051 ₹2,59,374 ₹6,72,750 ₹17,44,940
+12 % ₹1,76,234 ₹3,10,585 ₹9,64,629 ₹29,95,992
+
+### Simple interest compared
+
+Simple interest is P x r x t, with no interest on interest. On ₹1,00,000 at 8 % for 10 years it is ₹1,00,000 x 0.08 x 10 = ₹80,000, so the total is ₹1,80,000. Compound interest gives ₹2,15,892, which is ₹35,892 more. The gap widens every year, because the compounding balance keeps growing.
+
+### How long to double your money
+
+The rule of 72 is a shortcut: years to double are about 72 divided by the rate. The exact figure for annual compounding is ln 2 / ln(1 + r).
+Rate Rule of 72 Exact (annual compounding)
+4 % 18.0 years 17.7 years
+6 % 12.0 years 11.9 years
+8 % 9.0 years 9.0 years
+10 % 7.2 years 7.3 years
+12 % 6.0 years 6.1 years
+
+### What this leaves out
+
+It assumes one fixed rate and no deposits or withdrawals, and it does not include tax on the interest or any fees. Real products can use day counts or rounding rules that change the last few rupees. To model regular monthly investing, use the SIP calculator, and for loan repayments the EMI calculator.
+
+### Frequently asked questions
+
+What is the compound interest formula?
+A = P(1 + r/n)^(nt), where P is the principal, r is the annual rate as a decimal, n is the number of compounding periods per year, and t is the time in years. The total interest earned is A minus P.
+
+How do I calculate compound interest on 1 lakh for 10 years?
+At an example rate of 8% compounded annually, ₹1,00,000 grows to ₹2,15,892 in 10 years, which is ₹1,15,892 of interest. Compounded monthly it grows to ₹2,21,964.
+
+What is the difference between compound and simple interest?
+Simple interest is worked out on the original principal only, so it adds the same amount each year. Compound interest is worked out on the principal plus the interest already earned. On ₹1,00,000 at 8% for 10 years, simple interest gives ₹1,80,000 and annual compounding gives ₹2,15,892.
+
+Does compounding frequency make a big difference?
+It makes some difference, but less than the rate or the time. At 8% for 10 years on ₹1,00,000, annual compounding gives ₹2,15,892 and monthly gives ₹2,21,964, a gap of ₹6,072. Raising the rate by two points to 10% changes the annual result by far more.
+
+What is the effective annual rate?
+The yearly rate that gives the same result as the stated rate compounded more often. 8% compounded monthly has an effective annual rate of 8.3%. The calculator shows it as a tile.
+
+How long does it take to double my money?
+At 8% compounded annually, a little over 9.0 years. The rule of 72 estimates it as 72 divided by the rate: 72 / 8 = 9 years.
+
+How do I find the time needed to reach a target?
+Rearrange the formula: t = ln(A / P) / (n x ln(1 + r/n)). To grow ₹1,00,000 to ₹2,00,000 at 8% compounded annually, t = ln(2) / ln(1.08) = 9.01 years.
+
+Which products pay compound interest?
+A deposit or bond that adds its interest to the balance and then earns interest on it compounds, at the frequency its terms state. A mutual fund does not pay a fixed rate; for market-linked, assumed returns on monthly investments, use the SIP calculator.
+
+Why does my bank&#x27;s figure differ slightly from this calculator?
+A bank can use the actual number of days in a period or round at each compounding date, which gives small differences from the textbook formula used here. Your deposit receipt or account terms have the exact method.
+
+### Related tools
+
+SIP Calculator Percentage Calculator EMI Calculator GST Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Income Tax Calculator India: New vs Old Regime (FY 2026-27)
+
+URL: https://calc.streamerosai.com/income-tax-calculator-india/
+
+Free · instant · no sign-up
+
+## Income Tax Calculator (India)
+
+Enter your annual income to see your India income tax for FY 2026-27 (AY 2027-28) under the new or old regime, with every step of the working shown.
+
+Annual income (₹)
+Income type Salaried (gets the standard deduction) Other income (no standard deduction)
+
+Total tax payable ₹0
+Take-home income ₹12,00,000
+Effective tax rate 0.0 %
+
+Working Amount
+Gross income ₹12,00,000
+Standard deduction - ₹75,000
+Taxable income ₹11,25,000
+Tax before rebate ₹52,500
+Section 87A rebate - ₹52,500
+Health and education cess (4%) ₹0
+Total tax ₹0
+
+### How the calculator works it out
+
+The calculator follows the same order as the tax law, and the working table under the result shows each line, so you can check it against your own payslip or Form 16.
+
+- Start from gross income for the year: salary before any deduction, or other income.
+- Subtract the standard deduction if the income is salary: ₹75,000 in the new regime, ₹50,000 in the old one.
+- Old regime only, subtract Section 80C and 80D, each capped: up to ₹1,50,000 for 80C investments and up to ₹25,000 for 80D health insurance. What is left is taxable income.
+- Apply the slab rates in the tables below, each rate only to the part of taxable income that falls inside its band.
+- Take off the Section 87A rebate if taxable income is at or under the threshold (₹12 lakh new, ₹5 lakh old).
+- Add 4 % health and education cess on the tax that remains. That total is your tax for the year; gross income minus it is the take-home figure.
+
+### New regime slabs, FY 2026-27 (AY 2027-28)
+
+Taxable income Rate
+Up to ₹4,00,000 Nil
+₹4,00,000 to ₹8,00,000 5%
+₹8,00,000 to ₹12,00,000 10%
+₹12,00,000 to ₹16,00,000 15%
+₹16,00,000 to ₹20,00,000 20%
+₹20,00,000 to ₹24,00,000 25%
+Above ₹24,00,000 30%
+Rates apply only to the slice of income inside each range, not the whole amount. A ₹75,000 standard deduction applies first for salaried income, then the Section 87A rebate cancels the tax entirely if taxable income is ₹12,00,000 or under. A 4 % health and education cess applies on top of whatever tax remains.
+
+### Old regime slabs
+
+Taxable income Rate
+Up to ₹2,50,000 (₹3,00,000 if 60-79, ₹5,00,000 if 80+) Nil
+Next slab up to ₹5,00,000 5%
+₹5,00,000 to ₹10,00,000 20%
+Above ₹10,00,000 30%
+The old regime allows Sections 80C and 80D (modelled here) plus others this calculator doesn&#x27;t cover, such as HRA and home loan interest, and its standard deduction is ₹50,000 for salaried income. Its Section 87A rebate cancels tax only up to ₹5,00,000 taxable income.
+
+### Worked example: a ₹15 lakh salary in both regimes
+
+A salaried employee under 60 earns ₹15,00,000 a year. In the old regime they also invest the full ₹1,50,000 under Section 80C and pay ₹25,000 of health insurance premium.
+Working New regime Old regime
+Gross income ₹15,00,000 ₹15,00,000
+Standard deduction - ₹75,000 - ₹50,000
+Section 80C + 80D not allowed - ₹1,75,000
+Taxable income ₹14,25,000 ₹12,75,000
+Tax on the slabs ₹93,750 ₹1,95,000
+Section 87A rebate ₹0 (over ₹12 lakh) ₹0 (over ₹5 lakh)
+Cess at 4 % ₹3,750 ₹7,800
+Total tax ₹97,500 ₹2,02,800
+Effective rate on gross income 6.5 % 13.5 %
+The new-regime slab tax is built up band by band: nothing on the first ₹4,00,000, ₹20,000 on the next ₹4,00,000 at 5%, ₹40,000 on the next ₹4,00,000 at 10%, and ₹33,750 on the last ₹2,25,000 at 15%, which makes ₹93,750. In the old regime the same person pays ₹12,500 on ₹2,50,000 to ₹5,00,000 at 5%, ₹1,00,000 on ₹5,00,000 to ₹10,00,000 at 20%, and ₹82,500 on the last ₹2,75,000 at 30%. Even with both deductions used in full, the new regime costs ₹1,05,300 less a year here.
+
+### How much in deductions the old regime needs
+
+At a ₹15,00,000 salary the old regime only catches up when its taxable income falls to ₹9,06,250, where its slab tax equals the new regime&#x27;s ₹93,750. That takes ₹5,43,750 of deductions on top of the ₹50,000 standard deduction. Sections 80C and 80D together allow at most ₹1,75,000, so the rest would have to come from deductions this calculator does not model, mainly HRA and home loan interest. If you do not have those, the new regime is almost certainly cheaper at this income. If you do, add them up before you choose, because the answer turns on that total rather than on your salary alone.
+
+### Just above the ₹12 lakh line
+
+A salary of ₹13,00,000 in the new regime leaves ₹12,25,000 of taxable income after the standard deduction. That is above ₹12,00,000, so the 87A rebate no longer applies and the calculator shows the full slab tax of ₹63,750 plus ₹2,550 cess, ₹66,300 in all. The law softens this cliff with marginal relief, which this calculator does not apply, so for taxable income a little over ₹12 lakh your actual tax will be lower than the figure shown. Treat the result in this band as an upper limit and check it with the Income Tax Department&#x27;s calculator.
+
+### When to use it
+
+- Choosing a regime at the start of the year. Salaried employees tell their employer which regime to use for tax deducted from salary; run your income through both tabs first.
+- Weighing a raise or a job offer. Enter the new gross figure to see how much of the increase you keep, and whether it crosses the ₹12 lakh rebate line.
+- Deciding whether an 80C investment is worth it for tax. In the old regime, compare the result with 80C at zero and at ₹1,50,000; in the new regime it makes no difference.
+
+### What this estimate leaves out
+
+This is a slab-and-rebate estimate, not a filing. It does not include surcharge on incomes above ₹50 lakh, the exact marginal relief just above either rebate threshold, special rates on capital gains or similar income, or old-regime deductions beyond Sections 80C and 80D such as HRA, home loan interest or NPS. Use it to plan, and a CA or the Income Tax Department&#x27;s own calculator for a return you&#x27;re filing.
+Two simplifications in the inputs: Section 80D is capped at ₹25,000, the limit for a policy covering yourself and your family when you are under 60, so the higher limits for senior citizens and for a separate policy for your parents are not included. And the age choice only appears in the old regime, because the new regime&#x27;s slabs are the same at every age.
+
+### Sources
+
+- PIB, Union Budget 2025-26: “No Income Tax On Annual Income Upto Rs. 12 Lakh Under New Tax Regime” (new regime slabs, ₹75,000 standard deduction, ₹12 lakh / ₹12.75 lakh tax-free limit), 1 Feb 2025.
+- ClearTax: Income Tax Slabs FY 2025-26 & FY 2026-27 (confirms Budget 2026-27 made no change for FY 2026-27, and the old regime figures), checked 11 Nov 2026.
+- Income Tax Department: Tax Rates (one rate table listed for AY 2025-26 and AY 2026-27), checked 11 Nov 2026.
+- Finance Bill 2026 memorandum (4% health and education cess), 2 Feb 2026.
+
+### Frequently asked questions
+
+Is income up to ₹12 lakh really tax-free in the new regime?
+Yes, for FY 2026-27. The slab rates on taxable income up to ₹12,00,000 add up to ₹60,000 of tax, and the Section 87A rebate cancels exactly that amount, so the net tax is zero. For a salaried taxpayer, the ₹75,000 standard deduction pushes the effective tax-free gross income up to ₹12,75,000.
+
+Did Budget 2026 change the income tax slabs?
+No. Union Budget 2026-27 (presented 1 February 2026) made no change to the income tax slabs, standard deduction or Section 87A rebate for either regime, so the FY 2025-26 figures carry over unchanged to FY 2026-27.
+
+Which regime should I choose?
+The new regime is the default and usually works out better if you claim few deductions. The old regime can work out better if your Section 80C, 80D and other deductions (including HRA and home loan interest, not modelled in this calculator) are large relative to your income. Run both and compare.
+
+What is the Section 87A rebate?
+A rebate that cancels tax up to a cap, provided taxable income is under a threshold: up to ₹60,000 for taxable income up to ₹12,00,000 in the new regime, or up to ₹12,500 for taxable income up to ₹5,00,000 in the old regime. Just above either threshold, marginal relief (not modelled here) limits how fast the tax reappears.
+
+Is the standard deduction the same in both regimes?
+No. It&#x27;s ₹75,000 in the new regime and ₹50,000 in the old regime, and either way it only applies to salaried income, not business or other income.
+
+### Related tools
+
+GST Calculator EMI Calculator SIP Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Currency Converter: Convert Any Currency at Live Rates
+
+URL: https://calc.streamerosai.com/currency-converter/
+
+Free · instant · no sign-up
+
+## Currency Converter
+
+Convert between any two currencies at live exchange rates. Pick the currencies, enter an amount, and see the result, the rate and a table of common amounts.
+Amount
+From USD INR EUR GBP AUD CAD AED SGD JPY CHF
+To USD INR EUR GBP AUD CAD AED SGD JPY CHF
+
+Loading live rates...
+
+### How to use the converter
+
+- Enter the amount you want to convert.
+- Choose the currency you have in From and the one you want in To.
+- Read the converted amount and the rate. Use Swap currencies to reverse the direction.
+
+### How a currency conversion is calculated
+
+Converted amount = amount x exchange rate. The rate says how much of the second currency one unit of the first buys. The reverse rate is one divided by it.
+Rates are quoted against one reference currency. To convert from currency A to currency B, the amount is divided by A&#x27;s rate and multiplied by B&#x27;s rate, which gives the same answer as the direct A to B rate. Worked example, with made-up rates for the arithmetic only: if 1 US dollar is 0.8 euros and 90 rupees, then 5,000 euros is 5000 / 0.8 = 6,250 dollars, and that is 6,250 x 90 = ₹5,62,500. The direct euro to rupee rate is 90 / 0.8 = 112.5.
+
+### Popular pairs
+
+These pages open the converter with the pair already selected, with notes specific to each currency:
+
+- USD to INR
+- INR to USD
+- GBP to INR
+- EUR to INR
+- CAD to INR
+- AUD to INR
+- AED to INR
+For a salary or hourly wage in another currency, use the USD salary to INR calculator, which also splits the result by month, week and hour.
+
+### What a margin costs you
+
+The rate shown here is the mid-market rate. A bank, card or transfer app usually gives you a rate below it, a margin, and may add a fixed fee on top. This table shows what different margins take from a 1,000 unit transfer at an example rate of 90. The margins are examples, not what any provider charges.
+Margin below mid-market Rate you get You receive Lost to the margin
+None (mid-market) 90.00 90,000 0
+0.5 % 89.55 89,550 450
+1 % 89.10 89,100 900
+2 % 88.20 88,200 1,800
+3 % 87.30 87,300 2,700
+5 % 85.50 85,500 4,500
+Compare the final amount that arrives, not the headline rate. Why your bank&#x27;s number differs, and what a good deal looks like, is covered in how exchange rates work.
+
+### What this converter leaves out
+
+It shows the mid-market reference rate, not a rate you can trade at. It does not include provider margins, fixed fees, or taxes on a transfer. The rate comes from a free feed updated about once a day, so it can be a few hours behind the market. Use it to plan and check, and confirm the final figure with your provider.
+
+### Frequently asked questions
+
+How do I convert one currency to another?
+Multiply the amount by the exchange rate from the first currency to the second. If 1 euro buys 1.25 US dollars (an example rate), then 50 euros is 50 x 1.25 = 62.5 dollars. The converter does this with live rates.
+
+How do I convert between two currencies that are not the dollar?
+Rates are quoted against one reference currency, so the converter goes through it. With example rates of 1 USD = 0.8 EUR and 1 USD = 90 INR, 5,000 EUR is 5000 / 0.8 x 90 = ₹5,62,500. The direct EUR to INR rate is 90 / 0.8 = 112.5.
+
+How do I find the reverse rate?
+Divide 1 by the rate. If 1 US dollar is 90 rupees (an example), 1 rupee is 1 / 90 = 0.0111 dollars. The converter shows both directions under the result.
+
+Which currencies can I convert?
+Any two currencies in the lists, including US dollars, euros, pounds, rupees, Australian and Canadian dollars, dirhams, yen and many more. The pickers show the currencies your browser knows, with the popular ones first. A currency with no published rate shows a message instead of a result.
+
+Where do the exchange rates come from?
+From a free public rates feed that publishes mid-market reference rates about once a day, with two backup feeds. The date of the rates is shown under each result.
+
+Is this the rate I will get at a bank or exchange counter?
+No. This is the mid-market rate. Banks, card networks and transfer apps apply their own margin or fee, so the amount you receive is lower. Compare the final amount, not the headline rate.
+
+How do I check whether a transfer is good value?
+Divide the amount that arrives by the amount you sent to get the rate you really got, then compare it with the mid-market rate shown here. For example, if 1,000 dollars arrives as ₹88,650 when the example rate is 90, you got 88.65 rupees a dollar, which is 1.5% below the mid-market rate. Include any fixed fee in the amount.
+
+Why does the rate change during the day?
+Currencies trade continuously, so rates move. The feed this page uses publishes about once a day, so the rate shown can differ from a live market quote and from the rate a provider shows you.
+
+What if the rates will not load?
+If none of the feeds can be reached, the converter lets you type a rate yourself, so you can still do the sum.
+
+### Related tools
+
+USD to INR: US Dollar to Indian Rupee USD Salary to INR Calculator Salary Calculator Pay Raise Calculator
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# USD Salary to INR Calculator: Annual, Monthly, Hourly
+
+URL: https://calc.streamerosai.com/usd-salary-to-inr-calculator/
+
+Free · instant · no sign-up
+
+## USD Salary to INR Calculator
+
+Enter a salary or hourly wage in US dollars to see it in Indian rupees by year, month, week and hour. Uses live exchange rates and your own working schedule.
+Pay amount ( $)
+Per Hourly Daily Weekly Bi-weekly (every 2 weeks) Semi-monthly (twice a month) Monthly Quarterly Annual
+Currency USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Also show in Same currency only USD INR EUR GBP AUD CAD AED SGD JPY CHF
+Hours per week
+Days per week
+Weeks per year
+
+Annual $60,000
+Monthly $5,000.00
+
+Pay period Gross pay ( USD)
+Hourly $28.85
+Daily $230.77
+Weekly $1,153.85
+Bi-weekly (every 2 weeks) $2,307.69
+Semi-monthly (twice a month) $2,500.00
+Monthly $5,000.00
+Quarterly $15,000
+Annual $60,000
+Gross pay, before taxes and deductions.
+
+### How to convert a dollar salary to rupees
+
+The calculator converts your pay between periods first (hourly, weekly, monthly, annual) using your schedule, then converts each figure from dollars to rupees at the live rate. The left column is in the currency you chose and the right column is in the second currency.
+Rupee pay = dollar pay x USD to INR rate.
+
+- Get the dollar figure for one period. $60,000 a year, or $25 an hour.
+- Multiply by the rate. At an example rate of 90, that is ₹54,00,000 a year.
+- Split it into periods. That is ₹4,50,000.00 a month, ₹1,03,846.15 a week and ₹2,596.15 an hour at 2,080 hours a year.
+The rates on this page are round example numbers to show the arithmetic. They are not today&#x27;s rate; the calculator above loads that.
+
+### Dollar salaries in rupees at three example rates
+
+Yearly pay, with the rupee amount at an example rate of 80, 90 and 100. Rupee amounts use Indian grouping, where 1,00,000 is a lakh and 1,00,00,000 is a crore. The spread shows how much the rate matters.
+Dollar salary At 80 At 90 At 100 Difference, 80 to 100
+$40,000 ₹32,00,000 ₹36,00,000 ₹40,00,000 ₹8,00,000
+$60,000 ₹48,00,000 ₹54,00,000 ₹60,00,000 ₹12,00,000
+$80,000 ₹64,00,000 ₹72,00,000 ₹80,00,000 ₹16,00,000
+$100,000 ₹80,00,000 ₹90,00,000 ₹1,00,00,000 ₹20,00,000
+$150,000 ₹1,20,00,000 ₹1,35,00,000 ₹1,50,00,000 ₹30,00,000
+
+### Hourly dollar wages in rupees
+
+For freelancers and contractors paid per hour, at an example rate of 90 and a 2,080-hour year.
+Dollar rate per hour Rupees per hour Rupees per month Rupees per year
+$15.00 ₹1,350 ₹2,34,000 ₹28,08,000
+$25.00 ₹2,250 ₹3,90,000 ₹46,80,000
+$40.00 ₹3,600 ₹6,24,000 ₹74,88,000
+$60.00 ₹5,400 ₹9,36,000 ₹1,12,32,000
+If you work fewer hours or weeks, change the schedule in the calculator, or work out the dollar figure first with the hourly to salary calculator.
+
+### Before you compare
+
+- Compare after tax. A US salary and an Indian salary of the same rupee value are taxed under different rules. See the paycheck calculator for US take-home pay and the India income tax calculator for Indian tax.
+- Compare against your costs. The same rupee amount buys different things in different places, so an exchange-rate conversion alone does not tell you how well off you would be.
+- Remember the transfer. If you are paid in dollars and spend in rupees, what you receive depends on the rate your bank or transfer service gives, which is below the mid-market rate shown here. See how exchange rates work.
+
+### What this calculator leaves out
+
+It converts gross pay at the mid-market rate. It does not include income tax in either country, benefits, bonuses, or the margin and fees on moving money between currencies. For other pairs and a plain amount, use the currency converter or the USD to INR converter.
+
+### Frequently asked questions
+
+How do I convert a USD salary to INR?
+Multiply the dollar salary by the USD to INR exchange rate. At an example rate of 90, a $60,000 salary is 60,000 x 90 = ₹54,00,000 a year. The calculator uses the live rate and also splits the result by month, week and hour.
+
+How much is a $100,000 salary in rupees?
+It depends on the rate on the day. At example rates of 80, 90 and 100, it is ₹80,00,000, ₹90,00,000 and ₹1,00,00,000 a year. Enter the amount above for today&#x27;s figure.
+
+How do I convert a dollar monthly salary to INR?
+Multiply by the rate. At an example rate of 90, $5,000 a month is 5,000 x 90 = ₹4,50,000 a month, and ₹54,00,000 a year.
+
+How do I convert an hourly wage in dollars to rupees?
+Choose Hourly in the Per list and enter the dollar rate. You get the hourly figure in rupees plus the annual, monthly and weekly amounts, using your own hours per week. At an example rate of 90, $25 an hour is ₹2,250 an hour, or ₹46,80,000 a year at 2,080 hours.
+
+Is the rupee figure what lands in my bank account?
+No. It is the gross amount at the mid-market rate. Income tax, deductions, and the margin or fees of the bank or transfer service all reduce what you receive.
+
+How much does a change in the rate matter?
+On a $60,000 salary, every 1 rupee of change in the rate moves the yearly rupee amount by ₹60,000, which is ₹5,000 a month. A move from 90 to 91 is ₹60,000 a year.
+
+Which rate does the calculator use?
+The latest mid-market USD to INR rate from a free public feed, loaded when you open the page. The date is shown under the result.
+
+Can I use another currency?
+Yes. Change the currency and the Also show in list to any pair, for example a pound salary shown in rupees, or a rupee salary shown in dollars.
+
+Is a dollar salary comparable with a rupee salary?
+Only roughly. The conversion gives the same amount at the exchange rate, but taxes differ and prices differ between countries, so compare after tax and against your own costs.
+
+### Related tools
+
+USD to INR: US Dollar to Indian Rupee Currency Converter Salary to Hourly Calculator Hourly to Salary Calculator Income Tax Calculator (India)
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# USD to INR: 1 US Dollar to Indian Rupee Converter (Live)
+
+URL: https://calc.streamerosai.com/usd-to-inr/
+
+Free · instant · no sign-up
+
+## USD to INR: US Dollar to Indian Rupee
+
+Enter an amount in US dollars to see it in Indian rupees at the latest rate. Also answers the usual searches: 1 dollar to rupee, 100 dollars to rupees, and your dollar salary in rupees.
+Amount
+From USD INR EUR GBP AUD CAD AED SGD JPY CHF
+To USD INR EUR GBP AUD CAD AED SGD JPY CHF
+
+Loading live rates...
+
+### How to convert USD to INR
+
+- Type the amount in USD. The currencies are already set to USD and INR.
+- The result and the exchange rate update as soon as live rates load.
+- Use Swap currencies to convert INR back to USD, or pick any other currency from the lists.
+
+### About the USD to INR pair
+
+The US dollar (USD) and the Indian rupee (INR) are among the most searched currency pairs in the world, mostly because of money moving between the two countries: family remittances, salaries paid in dollars, student fees and imports.
+The rupee floats against the dollar, so the rate changes through the day and the figure you see here will differ slightly from a bank&#x27;s quote. Rupee amounts are shown in the Indian grouping, where 1,00,000 is one lakh and 1,00,00,000 is one crore.
+
+### Common reasons to convert USD to INR
+
+- Sending money to family in India, or receiving it.
+- Converting a salary or freelance payment quoted in dollars. For that, use the USD salary to INR calculator, which also gives monthly and hourly pay.
+- Estimating tuition, travel or shopping costs in dollars against a rupee budget.
+- Checking an import or export price.
+
+### USD to INR: the arithmetic
+
+INR amount = USD amount x rate. To show the sum, this table uses a made-up round rate of 1 USD = 90 INR. It is not today&#x27;s rate; the converter above loads that.
+USD INR at the example rate
+$1.00 ₹90.00
+$10.00 ₹900.00
+$100.00 ₹9,000.00
+$1,000.00 ₹90,000.00
+$10,000.00 ₹9,00,000.00
+To go back, divide by the rate: ₹9,000.00 is $100.00 at the same example rate. The reverse rate is 1 / 90 = 0.011111 USD per INR.
+
+### What converting there and back costs
+
+A provider that takes a margin of 2 % below the mid-market rate each way (an example, not any provider&#x27;s rate) leaves you with less than you started with. Start with $1,000.00: after the first leg you hold the equivalent of $980.00, and after converting back $960.40, a loss of $39.60. Convert once, in the direction you need.
+
+### Why the rate you get is not the rate shown
+
+The rate above is the mid-market rate. Banks, cards and transfer apps usually add a margin or a fee, so always compare the final amount that arrives. How exchange rates work explains the difference.
+
+### Frequently asked questions
+
+How do I convert USD to INR?
+Multiply the dollar amount by the USD to INR rate. If 1 dollar buys 90 rupees, then 100 dollars is 100 x 90 = 9,000 rupees. The converter above does this with the latest rate.
+
+What is 1 dollar in rupees today?
+The tile above shows today&#x27;s rate, loaded live. 1 dollar to rupees is simply the rate itself.
+
+Why is the rate different from my bank or money transfer app?
+This page shows the mid-market rate, the midpoint between buying and selling prices. Banks and transfer services give you a less favourable rate or add a fee, so compare the amount that actually arrives.
+
+Is the dollar to rupee rate fixed?
+No. The rupee&#x27;s value against the dollar changes continuously with the foreign exchange market.
+
+What is a lakh and a crore?
+A lakh is 100,000 and a crore is 10,000,000. They are written 1,00,000 and 1,00,00,000 in Indian grouping, which is how rupee amounts appear above.
+
+### Related tools
+
+Currency Converter INR to USD: Indian Rupee to US Dollar USD Salary to INR Calculator GBP to INR: British Pound to Indian Rupee EUR to INR: Euro to Indian Rupee
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# INR to USD: Indian Rupee to US Dollar Converter (Live)
+
+URL: https://calc.streamerosai.com/inr-to-usd/
+
+Free · instant · no sign-up
+
+## INR to USD: Indian Rupee to US Dollar
+
+Enter an amount in Indian rupees, including lakh and crore sums, to see it in US dollars at the latest rate.
+Amount
+From USD INR EUR GBP AUD CAD AED SGD JPY CHF
+To USD INR EUR GBP AUD CAD AED SGD JPY CHF
+
+Loading live rates...
+
+### How to convert INR to USD
+
+- Type the amount in INR. The currencies are already set to INR and USD.
+- The result and the exchange rate update as soon as live rates load.
+- Use Swap currencies to convert USD back to INR, or pick any other currency from the lists.
+
+### About the INR to USD pair
+
+People convert rupees to dollars to plan study or travel in the United States, to price overseas software and services, to compare a rupee salary with a dollar one, and to see what a remittance or an investment is worth in dollars.
+Rupee amounts here are typed and shown in the Indian style, where 1,00,000 is one lakh and 1,00,00,000 is one crore. Type 100000 for one lakh. The dollar figure is the mid-market amount, before any bank or transfer fee.
+
+### Common reasons to convert INR to USD
+
+- Estimating tuition, rent and living costs in the United States against a rupee budget.
+- Pricing overseas subscriptions, software and online purchases billed in dollars.
+- Comparing a rupee salary or a freelance rate with a dollar one.
+- Checking what a rupee investment or a lump sum is worth in dollars.
+
+### INR to USD: the arithmetic
+
+USD amount = INR amount x rate. To show the sum, this table uses a made-up round rate of 1 INR = 0.01 USD. It is not today&#x27;s rate; the converter above loads that.
+INR USD at the example rate
+₹1,000.00 $10.00
+₹10,000.00 $100.00
+₹1,00,000.00 $1,000.00
+₹10,00,000.00 $10,000.00
+To go back, divide by the rate: $1.00 is ₹100.00 at the same example rate. The reverse rate is 1 / 0.01 = 100 INR per USD.
+
+### What converting there and back costs
+
+A provider that takes a margin of 2 % below the mid-market rate each way (an example, not any provider&#x27;s rate) leaves you with less than you started with. Start with ₹1,000.00: after the first leg you hold the equivalent of ₹980.00, and after converting back ₹960.40, a loss of ₹39.60. Convert once, in the direction you need.
+
+### Why the rate you get is not the rate shown
+
+The rate above is the mid-market rate. Banks, cards and transfer apps usually add a margin or a fee, so always compare the final amount that arrives. How exchange rates work explains the difference.
+
+### Frequently asked questions
+
+How do I convert rupees to dollars?
+Divide the rupee amount by the USD to INR rate, or multiply it by the INR to USD rate. If 1 dollar is 90 rupees, then 9,000 rupees is 9,000 / 90 = 100 dollars. The converter does this with the live rate.
+
+How many dollars is one lakh rupees?
+One lakh is 100,000 rupees. Enter 100000 above to see the dollar amount at today&#x27;s rate. It changes through the day because the rupee floats against the dollar.
+
+What is the difference between INR to USD and USD to INR?
+They are the same exchange rate read in opposite directions. If 1 dollar buys 90 rupees, 1 rupee buys 1 / 90, about 0.0111 dollars. Use the swap button to flip the pair.
+
+Why does my bank give me fewer dollars?
+The page shows the mid-market rate. Banks and transfer services use a rate with their margin built in, and may add a fee, so the dollars you receive are lower. Compare the final amount, not the headline rate.
+
+Is the rate updated live?
+It is loaded from a public rates feed when you open the page. These feeds publish about once a day, and the date of the rates is shown under the result.
+
+### Related tools
+
+Currency Converter USD to INR: US Dollar to Indian Rupee GBP to INR: British Pound to Indian Rupee EUR to INR: Euro to Indian Rupee
+
+Last reviewed 2026-11-16.
+
+
+---
+
+# Money Guides: Salary, Overtime and Exchange Rates
+
+URL: https://calc.streamerosai.com/guides/
+
+Guides
+
+## Guides for pay and currency
+
+Short explanations that go with the tools, written to fix the problem you came with.
+
+#### How to convert salary to hourly pay (the 2,080-hour rule)
+
+The formula, the 2,080-hour year, and when your own schedule changes the answer.
+Read guide →
+
+#### How overtime pay works in the US: time and a half explained
+
+The federal rule, the calculation, and the exceptions that change your pay.
+Read guide →
+
+#### How exchange rates work: the mid-market rate vs the rate you get
+
+What the mid-market rate is, and how to compare what you will really receive.
+Read guide →
+Each guide works its numbers through step by step, names the official source for any rule (the US Department of Labor, the Office of Personnel Management and others), and says where the rule stops applying. They are written for understanding, not as advice about your own pay or money.
+
+
+---
+
+# How to Convert Salary to Hourly Pay (the 2,080-Hour Rule)
+
+URL: https://calc.streamerosai.com/guides/salary-to-hourly/
+
+## How to convert salary to hourly pay (the 2,080-hour rule)
+
+To compare a salaried job with an hourly one, or to see what your time is worth, convert one into the other. The method is short, and the one number that matters is how many hours the year contains.
+
+### The formula
+
+hourly pay = annual salary / (hours per week x weeks per year) For a standard full-time job that is 40 hours x 52 weeks = 2,080 hours. So a $60,000 salary is $60,000 / 2,080 = $28.85 an hour. Going the other way, $28.85 x 2,080 comes back to about $60,000.
+
+### Where 2,080 comes from
+
+It is nothing more than 40 x 52. It treats every week of the year as a paid, 40-hour week, which includes paid vacation, paid holidays and sick days, because a salary pays for those weeks too. That is why the same number works for people who do not literally clock 2,080 hours.
+
+### Other ways to count
+
+- 2,087 hours: some employers, including the US federal government&#x27;s pay system, divide by 2,087, a year of about 52.18 weeks. The answer differs from 2,080 by roughly a third of a percent.
+- Unpaid time off: if you take unpaid weeks, use fewer weeks. $60,000 over 50 weeks of 40 hours (2,000 hours) is $30.00 an hour.
+- Part-time: use your real hours. A $30,000 salary at 25 hours a week is $30,000 / (25 x 52) = $23.08 an hour.
+
+### Your effective hourly rate
+
+A salary does not rise when you work longer, so extra hours cut your real hourly pay. A $60,000 salary is $28.85 an hour at 40 hours a week but $23.08 at 50 hours: $60,000 / (50 x 52). Use your actual hours when you compare offers.
+
+### Monthly and weekly pay to hourly
+
+Convert to a yearly figure first. A monthly salary times 12 is the annual salary; a weekly pay times 52 is the annual salary; a bi-weekly check times 26 is the annual salary. Then divide by 2,080. A $5,000 monthly salary is $60,000 a year, or $28.85 an hour.
+
+### Try it
+
+The salary to hourly calculator does this for any salary and schedule, and the hourly to salary calculator goes the other way. The salary calculator shows every pay period at once.
+
+### Worked example: comparing two offers
+
+Offer A is a $65,000 salary with an expected 45-hour week. Offer B is $31 an hour for 40 hours, paid for the hours worked. Offer A is $65,000 / (45 x 52) = $65,000 / 2,340 = $27.78 an hour in practice, against $65,000 / 2,080 = $31.25 on paper. Offer B pays $31 x 2,080 = $64,480 a year if you work every week, and extra hours would earn overtime if you are non-exempt. On paper the two look the same; counting the real hours, B pays about $3 more per hour worked. The paper comparison and the real one only agree when the hours do.
+
+### What the 2,080-hour method leaves out
+
+- Benefits. Health insurance, retirement matching and paid leave have value that a plain hourly figure ignores. Compare them separately, in money, before deciding.
+- Taxes. Every figure here is gross, before tax. Net pay depends on the country, state, filing status and deductions; see the paycheck calculator for a US estimate.
+- Unpaid and paid weeks. If your contract pays for fewer than 52 weeks, divide by the weeks you are actually paid for.
+- Commute and unpaid prep time. They are real hours of your life even when they are not paid hours.
+
+### Source
+
+The 2,087-hour divisor used by the US federal government is explained in the Office of Personnel Management fact sheet Computing Hourly Rates of Pay Using the 2087-Hour Divisor. The 2,080-hour figure is plain arithmetic (40 x 52) and is the common private-sector convention, not a legal definition; an employer or a contract may specify a different divisor.
+
+
+---
+
+# How Overtime Pay Works in the US: Time and a Half Explained
+
+URL: https://calc.streamerosai.com/guides/how-overtime-pay-works/
+
+## How overtime pay works in the US: time and a half explained
+
+Overtime is extra pay for working long weeks. The federal rule is simple to state, but who it covers and how the rate is set is where people get caught out. This guide covers the basics; it is general information, not legal advice.
+
+### The federal rule
+
+Under the Fair Labor Standards Act (FLSA), covered non-exempt employees must be paid at least one and a half times their regular rate for each hour worked over 40 in a workweek. A workweek is a fixed, recurring period of seven days, and each week is counted on its own: you cannot average 50 hours one week and 30 the next to avoid overtime.
+
+### How time and a half is calculated
+
+overtime rate = regular rate x 1.5
+weekly pay = regular hours x rate + overtime hours x overtime rate At $20 an hour and 45 hours worked, the first 40 hours pay $800 and the 5 overtime hours pay 5 x $30 = $150, for $950 in total. The overtime pay calculator does this with your own rate and hours.
+
+### The "regular rate" is not always your base wage
+
+The regular rate can include more than the hourly wage, such as non-discretionary bonuses and shift differentials. If you receive these, your overtime rate may be higher than 1.5 times your base wage. Check the earnings breakdown on your payslip.
+
+### Exempt and non-exempt employees
+
+Some employees are exempt from the federal overtime rule. Exemption depends on the duties of the job and the salary paid, not on the job title or on being paid a salary. Many salaried workers are non-exempt and are owed overtime. The US Department of Labor publishes the current tests on its website.
+
+### State rules can be stricter
+
+Where state law gives more protection than federal law, the more protective rule applies. California, for example, requires overtime pay for hours over 8 in a day as well as over 40 in a week, and double time after 12 hours in a day. Check your state labor department for the exact rule.
+
+### Holidays and weekends
+
+Federal law does not require a premium for working holidays or weekends. Extra pay for those days comes from an employer&#x27;s policy, a union agreement or a contract. Hours on those days still count toward the 40-hour total. See the time and a half calculator for the rates.
+
+### Worked example: a bonus changes the overtime rate
+
+Suppose you earn $18 an hour, work 45 hours, and are also paid a $90 non-discretionary attendance bonus for the week. The regular rate is all pay for the week divided by all hours worked: ($18 x 45 + $90) / 45 = $900 / 45 = $20.00 an hour, not $18. You have already been paid straight time for all 45 hours, so what is still owed for the 5 overtime hours is the extra half: 0.5 x $20.00 x 5 = $50. The week comes to $900 + $50 = $950. If the bonus were ignored and overtime were figured on $18, the half-time premium would be only 0.5 x $18 x 5 = $45, which is $5 short. Small on one week, but it adds up over a year.
+
+### Worked example: daily overtime in California
+
+A California employee at $20 an hour works five 10-hour days, 50 hours in the week. Each day has 8 regular hours and 2 overtime hours, so 40 regular hours pay $800 and 10 overtime hours pay 10 x $30 = $300, for $1,100. On a single 13-hour day the split is 8 regular hours ($160), 4 hours at 1.5 times ($120) and 1 hour at double time ($40), for $320. The time and a half calculator applies the federal weekly rule and does not model daily overtime, so for California use the arithmetic above.
+
+### Common mistakes
+
+- Averaging weeks. A 50-hour week followed by a 30-hour week is still 10 hours of overtime in the first week.
+- Assuming a salary means no overtime. Salary alone does not make someone exempt; the job duties and the salary level both have to meet the Department of Labor tests.
+- Counting unpaid breaks. A genuine, uninterrupted meal break is normally not working time, but a break spent answering calls is.
+- Forgetting that rates differ. Employers can, and some do, pay more than 1.5 times by contract. The legal minimum is a floor, not a fixed rate.
+
+### Sources and limits
+
+The federal rules come from the Fair Labor Standards Act, summarised by the US Department of Labor Wage and Hour Division in its fact sheet Overtime Pay Requirements of the FLSA (Fact Sheet 23) and, for the regular rate, Fact Sheet 56A, both at dol.gov. California&#x27;s daily rules are described by the state&#x27;s Division of Labor Standards Enforcement at dir.ca.gov/dlse/faq_overtime.htm. This page explains the arithmetic. It does not decide whether a particular job is exempt, and it is not legal advice; if pay looks wrong, ask your employer or your state labor department.
+
+
+---
+
+# How Exchange Rates Work: Mid-Market Rate vs the Rate You Get
+
+URL: https://calc.streamerosai.com/guides/how-exchange-rates-work/
+
+## How exchange rates work: the mid-market rate vs the rate you get
+
+An exchange rate is the price of one currency in another. If 1 US dollar costs 90 Indian rupees, the USD to INR rate is 90. The rate you see on a converter and the rate you are offered when you send money are often not the same number, and the gap is where the cost hides.
+
+### The mid-market rate
+
+In the foreign exchange market every currency pair has a price to buy and a slightly higher price to sell. The mid-market rate is the midpoint between the two. It is the neutral benchmark that converters and news sites show, and it is the fairest number to compare against. The converters on this site use it.
+
+### Why you rarely get it
+
+Banks, card networks, exchange counters and transfer apps make money on currency exchange in two ways, and often both: a margin built into the rate (they sell you a currency for more than the mid-market price) and a separate fee. A transfer that advertises no fee may still be expensive if the margin is large.
+
+### How to compare offers
+
+- Find the mid-market rate for your pair with the currency converter.
+- Ask each provider how much the recipient will receive in the end currency after all fees.
+- Compare the received amounts, not the headline rate or the fee on its own.
+- The difference between the mid-market result and what arrives is your real cost.
+
+### Why rates change
+
+Most major currencies float: their prices move through the day with supply and demand in the market, driven by interest rates, trade, investment flows and news. A few currencies are pegged. The UAE dirham, for example, is held at about 3.6725 to the US dollar, so it moves against other currencies almost exactly as the dollar does.
+
+### Doing the arithmetic yourself
+
+amount in B = amount in A x rate (A to B)
+rate (B to A) = 1 / rate (A to B) If 1 euro buys 1.10 dollars, 50 euros is 55 dollars, and 1 dollar buys about 0.909 euros. See the converter for a live example, or open a popular pair such as USD to INR.
+
+### Worked example: what a transfer really costs
+
+Say you want to send $1,000 to India and the mid-market rate is 90 rupees to the dollar, so the benchmark outcome is 90,000 rupees. The two providers below use made-up numbers to show the method; they are not real quotes.
+Provider Fee Rate offered Rupees received Cost against 90,000
+A: fee shown, wide margin $5 88.20 (1,000 - 5) x 88.20 = 87,759 2,241 (2.49%)
+B: no fee, narrow margin $0 89.55 1,000 x 89.55 = 89,550 450 (0.50%)
+Provider A looks fine if you only look at its $5 fee, but its rate is 2% below the mid-market rate, so it costs about five times as much overall. The percentage cost is (mid-market result - amount received) / mid-market result.
+
+### Paying by card abroad
+
+When a card terminal or a website offers to charge you in your home currency instead of the local one (often called dynamic currency conversion), the shop or its processor sets the rate, and it is commonly worse than the rate your card network would apply. Choosing the local currency usually gives a better rate, though your own bank may still add a foreign transaction fee. Check your card terms for that fee.
+
+### Where the rates on this site come from
+
+The converters load daily rates from free public rate feeds (an open currency API and exchangerate-api.com, with a fallback between them) in your browser. They are reference rates for planning, in the same spirit as the mid-market rate, but they are not a quote: a bank, card or transfer provider will give you a different number, and rates for smaller currencies may be updated less often than for the major ones. Do not use this page to settle a contract or a trade; ask the provider for a firm quote.
+
+
+---
+
+# About StreamerOS Money Calculators: Free, Private Money Math
+
+URL: https://calc.streamerosai.com/about/
+
+## About
+
+StreamerOS Money Calculators is a small set of free calculators for everyday money questions: pay raises, salary and hourly conversion, overtime and time and a half, and currency conversion between any two currencies, with short guides that explain the rules behind them.
+It is built and maintained by Yaseen Khatib, a full-stack AI engineer, as part of the StreamerOS project. The calculators exist because many are cluttered and never show how the answer is reached, so every page here states its formula and a worked example.
+
+### How the calculators work
+
+Every calculator runs in your browser using standard JavaScript. The figures you enter are processed on your device and are not sent to a server or stored. The currency tools download a public list of exchange rates; your amounts are never part of that request. The site is a static website hosted on GitHub Pages.
+
+### What the results are, and are not
+
+Pay results are estimates of gross pay before tax and other deductions. Currency results use mid-market reference rates from a free public feed, which can be up to a day old and are not the rate a bank or transfer service will give you. None of it is financial, tax or legal advice. Overtime rules in particular vary by state and by job, so check your payslip or your state labor department for the exact rule that applies to you.
+
+### Who is behind it
+
+The site is run by one person, Yaseen Khatib, a full-stack AI developer based in Hyderabad, India. His portfolio is at yk.streamerosai.com. There is no team and no company behind the pages, which is why corrections go straight to him through the contact page. The same family of small sites also includes tools for developers, money, images and maths at tools, calc, images and math on streamerosai.com.
+
+### How pages are kept accurate
+
+The calculation code has automated tests, every formula is written out on the page with a worked example you can check by hand, and facts that come from outside (rates, rules, standards) name their source. Each page shows the date it was last reviewed, and that date changes only when the page does. The assumptions and limits of a tool are stated on its page rather than hidden, and a result that cannot be right (an impossible date, for instance) shows a message instead of a number. The terms of use and privacy policy describe the rest.
+
+### How the site is funded
+
+The calculators are free. The site does not show ads at the moment; it may show Google AdSense ads to cover hosting and development time. Ads never change the result of a calculator.
+
+### Corrections
+
+If a result is wrong or a guide contains a mistake, please use the contact page. Fixes are made in the open and the guides are updated.
+
+
+---
+
+# Privacy Policy: StreamerOS Money Calculators
+
+URL: https://calc.streamerosai.com/privacy/
+
+## Privacy Policy
+
+This policy describes what StreamerOS Money Calculators ( https://calc.streamerosai.com) does with information when you use it. Last updated: 19 November 2026.
+
+### What the tools do with your input
+
+The calculators work entirely in your browser. The pay figures and amounts you type are not transmitted to our servers, logged, or stored. Closing the page clears them.
+The currency tools request a public list of exchange rates from jsDelivr, Cloudflare Pages or ExchangeRate-API when you open them. That request does not contain your amounts, but, as with any website you visit, those services can see your IP address.
+
+### Cookies and similar technologies
+
+Cookies are small files a site stores in your browser. The analytics and advertising services listed below may set cookies or read similar identifiers. The tools themselves do not need a cookie to work. The only thing the site stores for its own use is your light or dark theme choice, kept in your browser&#x27;s local storage and never sent anywhere. You can block or delete cookies in your browser settings; the tools keep working either way.
+
+### Analytics
+
+This site uses Google Analytics 4 to count visits and see which pages are useful. It collects page views, approximate location, device and browser type, and how you arrived, using cookies and similar identifiers. It does not receive the text you enter into the tools. You can opt out with the Google Analytics opt-out browser add-on. We do not sell personal information.
+
+### Usage recording
+
+This site uses Microsoft Clarity to see how pages are used, through heatmaps and anonymised session recordings (mouse movement, clicks and scrolling). Clarity is configured to mask the text on the page, so what you type or load into a tool is not recorded. Clarity sets its own cookies ( _clck, _clsk) and Microsoft cookies on clarity.ms and bing.com (such as MUID); see Microsoft&#x27;s privacy statement.
+
+### First-party visit counter
+
+The site also runs a small counter of its own, Pulse, a script served from our own Cloudflare Worker (pulse.yaseenyk.workers.dev), to tell real visits from automated ones. It records the page address (without the query string), the referring site and campaign tags, country, device type, browser and system name, screen size, language, the name of your network provider, scroll depth, time on the page, page speed, which links and buttons were clicked, and a human-or-bot signal. It sets no cookies, never reads what you type or the values in input fields, and stores no IP address or browser string: the address is used in memory only, to limit abuse and to make a visitor code that changes every day (a one-way hash with a random salt that is deleted the next day), so visits cannot be linked across days. Records are deleted after 90 days. It switches itself off when your browser sends Do Not Track or Global Privacy Control, and on localhost. The data is used only to understand how the site is used.
+
+### Advertising
+
+This site does not show ads at the moment. We intend to use Google AdSense after approval. Once ads run, Google and its partners may use cookies to serve ads based on your visits to this and other websites. You can opt out of personalised advertising at adssettings.google.com, and learn how Google uses data from sites that use its services at policies.google.com/technologies/partner-sites. Where required by law (for example in the EEA and UK), personalised ads will be shown only after you consent. Ads will never change a tool&#x27;s result, and this policy will be updated before ads go live if anything above changes.
+
+### Your choices
+
+You can use the site with cookies blocked, opt out of Google Analytics with the add-on above, turn on Do Not Track or Global Privacy Control to switch off the visit counter, and ask a privacy question through the contact page. We do not collect accounts, names or email addresses through the tools. If you write to us, we use your address only to reply.
+
+### Children
+
+The tools are general-purpose and not aimed at children under 13, and we do not knowingly collect their data.
+
+### Contact
+
+Questions about this policy: see the contact page. The rules for using the site are in the terms of use.
+
+
+---
+
+# Terms of Use: StreamerOS Money Calculators
+
+URL: https://calc.streamerosai.com/terms/
+
+## Terms of Use
+
+These terms apply when you use StreamerOS Money Calculators ( https://calc.streamerosai.com). By using the site you agree to them. If you do not agree, please do not use it. Last updated: 16 November 2026.
+
+### What the site is
+
+StreamerOS Money Calculators is a free set of browser-based tools and explanatory guides, run by an individual. The tools run on your device. How the site treats information is described in the privacy policy.
+
+### Use as is, and accuracy
+
+The tools and guides are provided as they are, without warranties of any kind. We test the logic and state our formulas and assumptions on each page, but mistakes are possible and rules, rates and standards change. Check anything that matters before you rely on it.
+
+### Estimates, not advice
+
+The calculators give estimates from the figures and assumptions shown on each page. They are not financial, tax, legal or employment advice, and they do not replace a payslip, a loan offer, a tax return or a professional. Tax rules, GST rates, overtime law and exchange rates change, and your own situation may differ from the assumptions stated. Exchange rates come from free public feeds and are reference rates, not quotes. Confirm figures with your employer, bank, tax authority or adviser before making a decision.
+
+### Acceptable use
+
+Use the site lawfully. Do not attempt to disrupt it, overload it with automated requests, probe it for weaknesses, or use it to process material you have no right to handle. You are responsible for the data you put into a tool and for what you do with the result.
+
+### Content and ownership
+
+The text, design and code of the site belong to its owner unless stated otherwise, and third-party names and standards cited remain the property of their owners. You may link to any page. Please do not republish the guides or copy them in bulk without permission; short quotations with a link back are fine.
+
+### Links, ads and third parties
+
+Pages link to outside sources so you can check our work. We do not control those sites and are not responsible for them. If ads are shown, they are provided by third parties, are labelled as ads, and do not mean we endorse the advertiser.
+
+### Availability and liability
+
+The site may change or be unavailable at any time. To the extent the law allows, we are not liable for any loss arising from your use of, or inability to use, the site or from reliance on a result it gives. Nothing here limits any right you have by law that cannot be limited.
+
+### Changes to these terms
+
+We may update these terms. The date at the top shows the latest version, and continued use after a change means you accept it.
+
+### Contact
+
+Questions about these terms: see the contact page.
+
+
+---
+
+# Contact StreamerOS Money Calculators: Errors and Requests
+
+URL: https://calc.streamerosai.com/contact/
+
+## Contact
+
+Found a bug, a wrong result, or want a tool added? Tell us and include the input that caused the problem when you can. Messages go to the person who runs the site, and we aim to reply within a few working days.
+Email: contact@streamerosai.com
+
+### What helps most
+
+- The page address and what you expected to see.
+- The input that caused a wrong result, with anything private removed, and the browser you used.
+- For a mistake in a guide, the sentence and the source you believe says otherwise.
+
+### What we cannot do
+
+We cannot give personal financial, tax, legal or employment advice, check a specific document, or recover a file for you, because nothing you enter is uploaded to us. The site is run by one person, so replies can take a few days. Reports of wrong results are fixed first. If you do not want us to keep your email address, say so and we will delete the message once it is answered.
